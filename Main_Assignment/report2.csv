@@ -1,0 +1,767 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649937455149,1422,/signup-148,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected not to contain /This user already exist/,589,484,1,3,https://api.demoblaze.com/signup,1420,0,976
+1649937455149,1585,contact/index.html-542,200,OK,Send Message Thread Group 3-1,text,true,,19926,483,1,3,https://www.demoblaze.com/index.html,1422,0,980
+1649937456575,377,/signup-148,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected not to contain /This user already exist/,536,483,1,3,https://api.demoblaze.com/signup,376,0,0
+1649937456952,396,/signup-148,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected not to contain /This user already exist/,662,483,1,4,https://api.demoblaze.com/signup,396,0,0
+1649937457349,560,/signup-148,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected not to contain /This user already exist/,595,483,1,4,https://api.demoblaze.com/signup,560,0,0
+1649937457910,436,/signup-148,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected not to contain /This user already exist/,487,483,1,4,https://api.demoblaze.com/signup,435,0,0
+1649937456738,1608,contact/node_modules/video.js/dist/video.min.js-548,200,OK,Send Message Thread Group 3-1,text,true,,159808,431,1,4,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,835,0,0
+1649937458346,440,contact/css/latostyle.css-546,200,OK,Send Message Thread Group 3-1,text,true,,967,423,1,4,https://www.demoblaze.com/css/latostyle.css,439,0,0
+1649937458347,464,/login-98,200,OK,Login/Signup Thread Group 1-1,text,true,,649,485,1,4,https://api.demoblaze.com/login,464,0,0
+1649937458786,258,contact/node_modules/jquery/dist/jquery.min.js-547,200,OK,Send Message Thread Group 3-1,text,true,,36070,430,1,4,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,139,0,0
+1649937458812,377,/login-98,200,OK,Login/Signup Thread Group 1-1,text,true,,631,482,1,5,https://api.demoblaze.com/login,377,0,0
+1649937459044,333,contact/css/latofonts.css-545,200,OK,Send Message Thread Group 3-1,text,true,,1360,423,1,5,https://www.demoblaze.com/css/latofonts.css,333,0,0
+1649937459189,446,/login-98,200,OK,Login/Signup Thread Group 1-1,text,true,,579,482,1,5,https://api.demoblaze.com/login,446,0,0
+1649937459378,384,contact/node_modules/video.js/dist/video-js.min.css-544,200,OK,Send Message Thread Group 3-1,text,true,,12631,449,1,5,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,329,0,0
+1649937459636,450,/login-98,200,OK,Login/Signup Thread Group 1-1,text,true,,551,482,1,5,https://api.demoblaze.com/login,450,0,0
+1649937459762,408,contact/node_modules/bootstrap/dist/css/bootstrap.min.css-543,200,OK,Send Message Thread Group 3-1,text,true,,28315,455,1,5,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,350,0,0
+1649937460087,396,/login-98,200,OK,Login/Signup Thread Group 1-1,text,true,,614,482,1,5,https://api.demoblaze.com/login,396,0,0
+1649937460169,329,contact/js/index.js-551,200,OK,Send Message Thread Group 3-1,text,true,,3029,403,1,5,https://www.demoblaze.com/js/index.js,328,0,0
+1649937460499,167,contact/node_modules/tether/dist/js/tether.min.js-550,200,OK,Send Message Thread Group 3-1,text,true,,9691,433,1,5,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,164,0,0
+1649937460483,374,invalid login,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected to contain /Auth_token/,733,480,1,5,https://api.demoblaze.com/login,374,0,0
+1649937460857,540,invalid login,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected to contain /Auth_token/,642,480,1,6,https://api.demoblaze.com/login,539,0,0
+1649937460667,733,contact/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js-549,200,OK,Send Message Thread Group 3-1,text,true,,73638,456,1,6,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,513,0,0
+1649937461400,200,contact/Samsung1.jpg-554,200,OK,Send Message Thread Group 3-1,bin,true,,27703,425,1,6,https://www.demoblaze.com/Samsung1.jpg,140,0,0
+1649937461397,350,invalid login,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected to contain /Auth_token/,537,480,1,6,https://api.demoblaze.com/login,350,0,0
+1649937461601,384,contact/node_modules/bootstrap/dist/js/bootstrap.min.js-552,200,OK,Send Message Thread Group 3-1,text,true,,15455,439,1,6,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,328,0,0
+1649937461747,349,invalid login,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected to contain /Auth_token/,673,480,1,6,https://api.demoblaze.com/login,349,0,0
+1649937462096,346,invalid login,200,OK,Login/Signup Thread Group 1-1,text,false,Test failed: text expected to contain /Auth_token/,602,480,1,6,https://api.demoblaze.com/login,346,0,0
+1649937461986,629,contact/nexus1.jpg-553,200,OK,Send Message Thread Group 3-1,bin,true,,34220,423,1,5,https://www.demoblaze.com/nexus1.jpg,531,0,0
+1649937462616,132,contact/bm.png-557,200,OK,Send Message Thread Group 3-1,bin,true,,4287,419,1,5,https://www.demoblaze.com/bm.png,131,0,0
+1649937462748,413,contact/iphone1.jpg-555,200,OK,Send Message Thread Group 3-1,bin,true,,34923,424,1,6,https://www.demoblaze.com/iphone1.jpg,330,0,0
+1649937463161,1151,contact/config.json-558,200,OK,Send Message Thread Group 3-1,text,true,,612,476,1,6,https://www.demoblaze.com/config.json,1151,0,0
+1649937464312,474,contact/imgs/front.jpg-556,200,OK,Send Message Thread Group 3-1,bin,true,,24973,427,1,6,https://www.demoblaze.com/imgs/front.jpg,417,0,0
+1649937464787,497,contact/index.m3u8-560,200,OK,Send Message Thread Group 3-1,text,true,,1478,421,1,7,https://hls.demoblaze.com/index.m3u8,496,0,369
+1649937465286,67,contact/about_demo_hls_600k.m3u8-561,200,OK,Send Message Thread Group 3-1,text,true,,6288,435,1,7,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,66,0,0
+1649937465354,987,contact/entries-559,200,OK,Send Message Thread Group 3-1,text,true,,1505,418,1,7,https://api.demoblaze.com/entries,987,0,559
+1649937466342,1062,contact/about_demo_hls_600k00000.ts-562,200,OK,Send Message Thread Group 3-1,text,true,,543165,412,1,8,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,81,0,0
+1649937467404,294,contact/imgs/galaxy_s6.jpg-563,200,OK,Send Message Thread Group 3-1,bin,true,,107757,431,1,8,https://www.demoblaze.com/imgs/galaxy_s6.jpg,171,0,0
+1649937467698,318,contact/imgs/sony_vaio_5.jpg-569,200,OK,Send Message Thread Group 3-1,bin,true,,90795,433,1,8,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,160,0,0
+1649937468016,281,contact/imgs/HTC_M9.jpg-568,200,OK,Send Message Thread Group 3-1,bin,true,,97258,428,1,8,https://www.demoblaze.com/imgs/HTC_M9.jpg,165,0,0
+1649937468298,637,contact/imgs/Nexus_6.jpg-565,200,OK,Send Message Thread Group 3-1,bin,true,,232121,429,1,8,https://www.demoblaze.com/imgs/Nexus_6.jpg,399,0,0
+1649937455090,14120,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-1,,true,,55537,12993,8,9,null,0,66,1718
+1649937455149,1530,/login-151,200,OK,Full Transaction Thread Group 2-1,text,true,,474,485,1,3,https://api.demoblaze.com/login,1529,0,1029
+1649937456682,341,/view-202,200,OK,Full Transaction Thread Group 2-1,text,true,,787,452,1,3,https://api.demoblaze.com/view,340,0,0
+1649937457023,385,/addtocart-205,200,OK,Full Transaction Thread Group 2-1,text,true,,331,544,2,4,https://api.demoblaze.com/addtocart,385,0,0
+1649937457408,554,/addtocart-207,200,OK,Full Transaction Thread Group 2-1,text,true,,331,544,2,4,https://api.demoblaze.com/addtocart,554,0,0
+1649937457962,1084,/index.html-208,200,OK,Full Transaction Thread Group 2-1,text,true,,19926,517,2,4,https://www.demoblaze.com/index.html,922,0,689
+1649937459046,614,/addtocart-258,200,OK,Full Transaction Thread Group 2-1,text,true,,331,545,3,5,https://api.demoblaze.com/addtocart,614,0,0
+1649937459660,403,/addtocart-260,200,OK,Full Transaction Thread Group 2-1,text,true,,331,545,3,5,https://api.demoblaze.com/addtocart,403,0,0
+1649937460064,416,/index.html-261,200,OK,Full Transaction Thread Group 2-1,text,true,,19926,518,3,5,https://www.demoblaze.com/index.html,360,0,0
+1649937460479,408,/addtocart-314,200,OK,Full Transaction Thread Group 2-1,text,true,,331,545,3,5,https://api.demoblaze.com/addtocart,408,0,0
+1649937460887,510,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-1,text,true,,866,487,4,6,https://api.demoblaze.com/viewcart,510,0,0
+1649937461398,348,cart/view-339,200,OK,Full Transaction Thread Group 2-1,text,true,,776,449,4,6,https://api.demoblaze.com/view,348,0,0
+1649937461747,348,cart/view-340,200,OK,Full Transaction Thread Group 2-1,text,true,,809,450,4,6,https://api.demoblaze.com/view,348,0,0
+1649937462096,360,cart/view-341,200,OK,Full Transaction Thread Group 2-1,text,true,,781,450,4,5,https://api.demoblaze.com/view,359,0,0
+1649937462456,351,cart/view-342,200,OK,Full Transaction Thread Group 2-1,text,true,,842,449,4,5,https://api.demoblaze.com/view,350,0,0
+1649937462807,352,cart/view-343,200,OK,Full Transaction Thread Group 2-1,text,true,,888,450,5,6,https://api.demoblaze.com/view,352,0,0
+1649937463160,1222,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-1,text,true,,340,493,5,6,https://api.demoblaze.com/deleteitem,1222,0,0
+1649937464382,402,delete items/view-374,200,OK,Full Transaction Thread Group 2-1,text,true,,679,449,5,6,https://api.demoblaze.com/view,401,0,0
+1649937464784,350,delete items/view-373,200,OK,Full Transaction Thread Group 2-1,text,true,,750,450,6,7,https://api.demoblaze.com/view,350,0,0
+1649937465134,600,delete items/view-372,200,OK,Full Transaction Thread Group 2-1,text,true,,837,450,6,7,https://api.demoblaze.com/view,600,0,0
+1649937465736,447,delete items/view-370,200,OK,Full Transaction Thread Group 2-1,text,true,,473,476,6,7,https://api.demoblaze.com/view,447,0,0
+1649937466183,348,delete items/view-378,200,OK,Full Transaction Thread Group 2-1,text,true,,659,450,6,7,https://api.demoblaze.com/view,348,0,0
+1649937466531,585,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-1,text,true,,340,493,7,8,https://api.demoblaze.com/deleteitem,585,0,0
+1649937467117,381,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-1,text,true,,831,487,7,8,https://api.demoblaze.com/viewcart,381,0,0
+1649937467498,356,delete items/view-405,200,OK,Full Transaction Thread Group 2-1,text,true,,888,449,7,8,https://api.demoblaze.com/view,355,0,0
+1649937467854,441,delete items/view-406,200,OK,Full Transaction Thread Group 2-1,text,true,,888,450,7,8,https://api.demoblaze.com/view,440,0,0
+1649937468295,356,delete items/view-404,200,OK,Full Transaction Thread Group 2-1,text,true,,782,450,7,8,https://api.demoblaze.com/view,356,0,0
+1649937468651,628,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-1,text,true,,340,466,8,9,https://api.demoblaze.com/deletecart,628,0,0
+1649937468935,669,contact/imgs/Lumia_1520.jpg-564,200,OK,Send Message Thread Group 3-1,bin,true,,145538,432,1,8,https://www.demoblaze.com/imgs/Lumia_1520.jpg,545,0,0
+1649937457090,13137,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-2,,true,,40794,12993,7,8,null,0,11,835
+1649937457090,962,/login-151,200,OK,Full Transaction Thread Group 2-2,text,true,,682,485,2,4,https://api.demoblaze.com/login,962,0,269
+1649937458053,351,/view-202,200,OK,Full Transaction Thread Group 2-2,text,true,,810,452,2,4,https://api.demoblaze.com/view,351,0,0
+1649937458405,414,/addtocart-205,200,OK,Full Transaction Thread Group 2-2,text,true,,331,544,2,4,https://api.demoblaze.com/addtocart,414,0,0
+1649937458819,375,/addtocart-207,200,OK,Full Transaction Thread Group 2-2,text,true,,331,544,3,5,https://api.demoblaze.com/addtocart,375,0,0
+1649937459195,864,/index.html-208,200,OK,Full Transaction Thread Group 2-2,text,true,,19926,517,3,5,https://www.demoblaze.com/index.html,810,0,566
+1649937460059,419,/addtocart-258,200,OK,Full Transaction Thread Group 2-2,text,true,,331,545,3,5,https://api.demoblaze.com/addtocart,419,0,0
+1649937460477,390,/addtocart-260,200,OK,Full Transaction Thread Group 2-2,text,true,,331,545,3,5,https://api.demoblaze.com/addtocart,390,0,0
+1649937460868,531,/index.html-261,200,OK,Full Transaction Thread Group 2-2,text,true,,4992,518,4,6,https://www.demoblaze.com/index.html,528,0,0
+1649937461399,374,/addtocart-314,200,OK,Full Transaction Thread Group 2-2,text,true,,331,545,4,6,https://api.demoblaze.com/addtocart,374,0,0
+1649937461773,383,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-2,text,true,,801,487,4,6,https://api.demoblaze.com/viewcart,383,0,0
+1649937462157,459,cart/view-339,200,OK,Full Transaction Thread Group 2-2,text,true,,777,449,4,5,https://api.demoblaze.com/view,458,0,0
+1649937462616,355,cart/view-340,200,OK,Full Transaction Thread Group 2-2,text,true,,778,450,4,5,https://api.demoblaze.com/view,355,0,0
+1649937462972,1373,cart/view-341,200,OK,Full Transaction Thread Group 2-2,text,true,,839,450,5,6,https://api.demoblaze.com/view,1373,0,0
+1649937464345,439,cart/view-342,200,OK,Full Transaction Thread Group 2-2,text,true,,757,449,5,6,https://api.demoblaze.com/view,439,0,0
+1649937464784,348,cart/view-343,200,OK,Full Transaction Thread Group 2-2,text,true,,684,450,6,7,https://api.demoblaze.com/view,347,0,0
+1649937465132,349,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-2,text,true,,502,493,6,7,https://api.demoblaze.com/deleteitem,349,0,0
+1649937465483,340,delete items/view-374,200,OK,Full Transaction Thread Group 2-2,text,true,,838,449,6,7,https://api.demoblaze.com/view,340,0,0
+1649937465824,404,delete items/view-373,200,OK,Full Transaction Thread Group 2-2,text,true,,649,450,6,7,https://api.demoblaze.com/view,404,0,0
+1649937466229,407,delete items/view-372,200,OK,Full Transaction Thread Group 2-2,text,true,,886,450,6,7,https://api.demoblaze.com/view,407,0,0
+1649937466636,534,delete items/view-370,200,OK,Full Transaction Thread Group 2-2,text,true,,473,476,7,8,https://api.demoblaze.com/view,534,0,0
+1649937467170,354,delete items/view-378,200,OK,Full Transaction Thread Group 2-2,text,true,,757,450,7,8,https://api.demoblaze.com/view,354,0,0
+1649937467524,489,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-2,text,true,,683,493,7,8,https://api.demoblaze.com/deleteitem,489,0,0
+1649937468014,388,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-2,text,true,,639,487,7,8,https://api.demoblaze.com/viewcart,388,0,0
+1649937468402,585,delete items/view-405,200,OK,Full Transaction Thread Group 2-2,text,true,,724,449,7,8,https://api.demoblaze.com/view,585,0,0
+1649937468988,482,delete items/view-406,200,OK,Full Transaction Thread Group 2-2,text,true,,726,450,7,8,https://api.demoblaze.com/view,482,0,0
+1649937469470,340,delete items/view-404,200,OK,Full Transaction Thread Group 2-2,text,true,,876,450,7,8,https://api.demoblaze.com/view,340,0,0
+1649937469810,428,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-2,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,428,0,0
+1649937469604,1332,contact/imgs/iphone_6.jpg-566,200,OK,Send Message Thread Group 3-1,bin,true,,201570,430,1,7,https://www.demoblaze.com/imgs/iphone_6.jpg,1155,0,0
+1649937470935,634,contact/imgs/xperia_z5.jpg-567,200,OK,Send Message Thread Group 3-1,bin,true,,143992,431,1,8,https://www.demoblaze.com/imgs/xperia_z5.jpg,462,0,0
+1649937459084,12596,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-3,,true,,55893,12993,7,8,null,0,11,834
+1649937459085,1081,/login-151,200,OK,Full Transaction Thread Group 2-3,text,true,,488,485,3,5,https://api.demoblaze.com/login,1081,0,433
+1649937460166,343,/view-202,200,OK,Full Transaction Thread Group 2-3,text,true,,749,452,3,5,https://api.demoblaze.com/view,342,0,0
+1649937460509,363,/addtocart-205,200,OK,Full Transaction Thread Group 2-3,text,true,,331,544,3,5,https://api.demoblaze.com/addtocart,363,0,0
+1649937460872,524,/addtocart-207,200,OK,Full Transaction Thread Group 2-3,text,true,,331,544,4,6,https://api.demoblaze.com/addtocart,524,0,0
+1649937461398,709,/index.html-208,200,OK,Full Transaction Thread Group 2-3,text,true,,19926,517,4,6,https://www.demoblaze.com/index.html,651,0,401
+1649937462107,365,/addtocart-258,200,OK,Full Transaction Thread Group 2-3,text,true,,331,545,4,5,https://api.demoblaze.com/addtocart,365,0,0
+1649937462472,357,/addtocart-260,200,OK,Full Transaction Thread Group 2-3,text,true,,331,545,4,5,https://api.demoblaze.com/addtocart,357,0,0
+1649937462829,226,/index.html-261,200,OK,Full Transaction Thread Group 2-3,text,true,,19926,518,4,5,https://www.demoblaze.com/index.html,171,0,0
+1649937463055,1306,/addtocart-314,200,OK,Full Transaction Thread Group 2-3,text,true,,331,545,5,6,https://api.demoblaze.com/addtocart,1306,0,0
+1649937464361,423,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-3,text,true,,742,487,5,6,https://api.demoblaze.com/viewcart,423,0,0
+1649937464784,340,cart/view-339,200,OK,Full Transaction Thread Group 2-3,text,true,,798,449,6,7,https://api.demoblaze.com/view,340,0,0
+1649937465124,343,cart/view-340,200,OK,Full Transaction Thread Group 2-3,text,true,,755,450,6,7,https://api.demoblaze.com/view,343,0,0
+1649937465469,338,cart/view-341,200,OK,Full Transaction Thread Group 2-3,text,true,,783,450,6,7,https://api.demoblaze.com/view,338,0,0
+1649937465808,414,cart/view-342,200,OK,Full Transaction Thread Group 2-3,text,true,,691,449,6,7,https://api.demoblaze.com/view,413,0,0
+1649937466222,409,cart/view-343,200,OK,Full Transaction Thread Group 2-3,text,true,,872,450,6,7,https://api.demoblaze.com/view,409,0,0
+1649937466631,544,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-3,text,true,,340,493,7,8,https://api.demoblaze.com/deleteitem,544,0,0
+1649937467176,342,delete items/view-374,200,OK,Full Transaction Thread Group 2-3,text,true,,901,449,7,8,https://api.demoblaze.com/view,342,0,0
+1649937467518,495,delete items/view-373,200,OK,Full Transaction Thread Group 2-3,text,true,,811,450,7,8,https://api.demoblaze.com/view,495,0,0
+1649937468014,342,delete items/view-372,200,OK,Full Transaction Thread Group 2-3,text,true,,985,450,7,8,https://api.demoblaze.com/view,341,0,0
+1649937468356,327,delete items/view-370,200,OK,Full Transaction Thread Group 2-3,text,true,,473,476,7,8,https://api.demoblaze.com/view,327,0,0
+1649937468683,336,delete items/view-378,200,OK,Full Transaction Thread Group 2-3,text,true,,703,450,7,8,https://api.demoblaze.com/view,336,0,0
+1649937469020,631,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-3,text,true,,689,493,7,8,https://api.demoblaze.com/deleteitem,630,0,0
+1649937469651,357,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-3,text,true,,745,487,7,8,https://api.demoblaze.com/viewcart,357,0,0
+1649937470009,342,delete items/view-405,200,OK,Full Transaction Thread Group 2-3,text,true,,867,449,6,7,https://api.demoblaze.com/view,342,0,0
+1649937470350,389,delete items/view-406,200,OK,Full Transaction Thread Group 2-3,text,true,,779,450,6,7,https://api.demoblaze.com/view,388,0,0
+1649937470740,354,delete items/view-404,200,OK,Full Transaction Thread Group 2-3,text,true,,875,450,7,8,https://api.demoblaze.com/view,354,0,0
+1649937471095,596,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-3,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,596,0,0
+1649937471569,134,contact/index.html-570,200,OK,Send Message Thread Group 3-1,text,true,,19926,483,1,7,https://www.demoblaze.com/index.html,129,0,0
+1649937471703,330,contact/css/latofonts.css-572,200,OK,Send Message Thread Group 3-1,text,true,,1385,423,1,7,https://www.demoblaze.com/css/latofonts.css,330,0,0
+1649937472033,487,contact/css/latostyle.css-574,200,OK,Send Message Thread Group 3-1,text,true,,975,423,1,7,https://www.demoblaze.com/css/latostyle.css,487,0,0
+1649937472521,527,contact/node_modules/jquery/dist/jquery.min.js-575,200,OK,Send Message Thread Group 3-1,text,true,,35971,430,1,7,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,469,0,0
+1649937473049,307,contact/node_modules/video.js/dist/video.min.js-576,200,OK,Send Message Thread Group 3-1,text,true,,160171,431,1,8,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,181,0,0
+1649937473356,141,contact/node_modules/video.js/dist/video-js.min.css-573,200,OK,Send Message Thread Group 3-1,text,true,,12411,449,1,8,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,138,0,0
+1649937473497,346,contact/node_modules/bootstrap/dist/css/bootstrap.min.css-571,200,OK,Send Message Thread Group 3-1,text,true,,28335,455,1,8,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,340,0,0
+1649937461084,13145,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-4,,true,,40873,12993,7,8,null,0,10,1720
+1649937461085,1075,/login-151,200,OK,Full Transaction Thread Group 2-4,text,true,,710,485,4,6,https://api.demoblaze.com/login,1074,0,377
+1649937462160,350,/view-202,200,OK,Full Transaction Thread Group 2-4,text,true,,733,452,4,5,https://api.demoblaze.com/view,349,0,0
+1649937462510,366,/addtocart-205,200,OK,Full Transaction Thread Group 2-4,text,true,,331,544,4,5,https://api.demoblaze.com/addtocart,366,0,0
+1649937462877,372,/addtocart-207,200,OK,Full Transaction Thread Group 2-4,text,true,,331,544,5,6,https://api.demoblaze.com/addtocart,372,0,0
+1649937463250,1823,/index.html-208,200,OK,Full Transaction Thread Group 2-4,text,true,,19926,517,5,6,https://www.demoblaze.com/index.html,1766,0,1343
+1649937465073,368,/addtocart-258,200,OK,Full Transaction Thread Group 2-4,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,368,0,0
+1649937465443,368,/addtocart-260,200,OK,Full Transaction Thread Group 2-4,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,368,0,0
+1649937465811,187,/index.html-261,200,OK,Full Transaction Thread Group 2-4,text,true,,5205,518,6,7,https://www.demoblaze.com/index.html,186,0,0
+1649937465999,378,/addtocart-314,200,OK,Full Transaction Thread Group 2-4,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,378,0,0
+1649937466377,578,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-4,text,true,,855,487,6,7,https://api.demoblaze.com/viewcart,577,0,0
+1649937466955,484,cart/view-339,200,OK,Full Transaction Thread Group 2-4,text,true,,769,449,7,8,https://api.demoblaze.com/view,483,0,0
+1649937467439,347,cart/view-340,200,OK,Full Transaction Thread Group 2-4,text,true,,753,450,7,8,https://api.demoblaze.com/view,347,0,0
+1649937467787,334,cart/view-341,200,OK,Full Transaction Thread Group 2-4,text,true,,790,450,7,8,https://api.demoblaze.com/view,334,0,0
+1649937468121,404,cart/view-342,200,OK,Full Transaction Thread Group 2-4,text,true,,781,449,7,8,https://api.demoblaze.com/view,404,0,0
+1649937468526,462,cart/view-343,200,OK,Full Transaction Thread Group 2-4,text,true,,867,450,7,8,https://api.demoblaze.com/view,461,0,0
+1649937468988,476,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-4,text,true,,552,493,7,8,https://api.demoblaze.com/deleteitem,476,0,0
+1649937469464,345,delete items/view-374,200,OK,Full Transaction Thread Group 2-4,text,true,,664,449,7,8,https://api.demoblaze.com/view,345,0,0
+1649937469810,348,delete items/view-373,200,OK,Full Transaction Thread Group 2-4,text,true,,838,450,7,8,https://api.demoblaze.com/view,348,0,0
+1649937470157,336,delete items/view-372,200,OK,Full Transaction Thread Group 2-4,text,true,,960,450,6,7,https://api.demoblaze.com/view,335,0,0
+1649937470493,438,delete items/view-370,200,OK,Full Transaction Thread Group 2-4,text,true,,473,476,6,7,https://api.demoblaze.com/view,438,0,0
+1649937470932,465,delete items/view-378,200,OK,Full Transaction Thread Group 2-4,text,true,,635,450,7,8,https://api.demoblaze.com/view,465,0,0
+1649937471397,357,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-4,text,true,,531,493,6,7,https://api.demoblaze.com/deleteitem,357,0,0
+1649937471755,775,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-4,text,true,,337,487,6,7,https://api.demoblaze.com/viewcart,775,0,0
+1649937472530,378,delete items/view-405,200,OK,Full Transaction Thread Group 2-4,text,true,,679,449,6,7,https://api.demoblaze.com/view,377,0,0
+1649937472908,441,delete items/view-406,200,OK,Full Transaction Thread Group 2-4,text,true,,828,450,7,8,https://api.demoblaze.com/view,441,0,0
+1649937473350,343,delete items/view-404,200,OK,Full Transaction Thread Group 2-4,text,true,,992,450,7,8,https://api.demoblaze.com/view,342,0,0
+1649937473693,547,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-4,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,547,0,0
+1649937473843,506,contact/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js-577,200,OK,Send Message Thread Group 3-1,text,true,,72690,456,1,7,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,440,0,0
+1649937474349,331,contact/node_modules/tether/dist/js/tether.min.js-578,200,OK,Send Message Thread Group 3-1,text,true,,9194,433,1,7,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,330,0,0
+1649937474681,168,contact/node_modules/bootstrap/dist/js/bootstrap.min.js-579,200,OK,Send Message Thread Group 3-1,text,true,,15554,439,1,7,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,165,0,0
+1649937474849,349,contact/js/index.js-580,200,OK,Send Message Thread Group 3-1,text,true,,2855,403,1,8,https://www.demoblaze.com/js/index.js,349,0,0
+1649937475199,331,contact/bm.png-582,200,OK,Send Message Thread Group 3-1,bin,true,,4287,419,1,8,https://www.demoblaze.com/bm.png,331,0,0
+1649937475531,345,contact/iphone1.jpg-584,200,OK,Send Message Thread Group 3-1,bin,true,,34923,424,1,8,https://www.demoblaze.com/iphone1.jpg,338,0,0
+1649937475876,387,contact/nexus1.jpg-583,200,OK,Send Message Thread Group 3-1,bin,true,,34164,423,1,8,https://www.demoblaze.com/nexus1.jpg,382,0,0
+1649937476263,341,contact/Samsung1.jpg-581,200,OK,Send Message Thread Group 3-1,bin,true,,27703,425,1,8,https://www.demoblaze.com/Samsung1.jpg,337,0,0
+1649937463083,13566,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-5,,true,,55868,12993,7,8,null,0,13,2231
+1649937463084,2120,/login-151,200,OK,Full Transaction Thread Group 2-5,text,true,,478,485,6,7,https://api.demoblaze.com/login,2120,0,1509
+1649937465206,530,/view-202,200,OK,Full Transaction Thread Group 2-5,text,true,,698,452,6,7,https://api.demoblaze.com/view,530,0,0
+1649937465736,512,/addtocart-205,200,OK,Full Transaction Thread Group 2-5,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,512,0,0
+1649937466248,488,/addtocart-207,200,OK,Full Transaction Thread Group 2-5,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,488,0,0
+1649937466737,1030,/index.html-208,200,OK,Full Transaction Thread Group 2-5,text,true,,19926,517,7,8,https://www.demoblaze.com/index.html,966,0,722
+1649937467768,367,/addtocart-258,200,OK,Full Transaction Thread Group 2-5,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,367,0,0
+1649937468136,416,/addtocart-260,200,OK,Full Transaction Thread Group 2-5,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,416,0,0
+1649937468552,435,/index.html-261,200,OK,Full Transaction Thread Group 2-5,text,true,,19926,518,7,8,https://www.demoblaze.com/index.html,380,0,0
+1649937468988,659,/addtocart-314,200,OK,Full Transaction Thread Group 2-5,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,659,0,0
+1649937469647,364,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-5,text,true,,739,487,7,8,https://api.demoblaze.com/viewcart,364,0,0
+1649937470012,348,cart/view-339,200,OK,Full Transaction Thread Group 2-5,text,true,,876,449,6,7,https://api.demoblaze.com/view,348,0,0
+1649937470360,372,cart/view-340,200,OK,Full Transaction Thread Group 2-5,text,true,,813,450,6,7,https://api.demoblaze.com/view,372,0,0
+1649937470732,347,cart/view-341,200,OK,Full Transaction Thread Group 2-5,text,true,,716,450,6,7,https://api.demoblaze.com/view,347,0,0
+1649937471080,488,cart/view-342,200,OK,Full Transaction Thread Group 2-5,text,true,,860,449,7,8,https://api.demoblaze.com/view,488,0,0
+1649937471568,349,cart/view-343,200,OK,Full Transaction Thread Group 2-5,text,true,,758,450,6,7,https://api.demoblaze.com/view,349,0,0
+1649937471917,601,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-5,text,true,,585,493,6,7,https://api.demoblaze.com/deleteitem,601,0,0
+1649937472518,395,delete items/view-374,200,OK,Full Transaction Thread Group 2-5,text,true,,875,449,6,7,https://api.demoblaze.com/view,395,0,0
+1649937472913,441,delete items/view-373,200,OK,Full Transaction Thread Group 2-5,text,true,,763,450,7,8,https://api.demoblaze.com/view,441,0,0
+1649937473354,332,delete items/view-372,200,OK,Full Transaction Thread Group 2-5,text,true,,904,450,7,8,https://api.demoblaze.com/view,332,0,0
+1649937473687,329,delete items/view-370,200,OK,Full Transaction Thread Group 2-5,text,true,,473,476,7,8,https://api.demoblaze.com/view,329,0,0
+1649937474017,343,delete items/view-378,200,OK,Full Transaction Thread Group 2-5,text,true,,725,450,6,7,https://api.demoblaze.com/view,343,0,0
+1649937474361,346,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-5,text,true,,480,493,6,7,https://api.demoblaze.com/deleteitem,346,0,0
+1649937474707,367,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-5,text,true,,853,487,6,7,https://api.demoblaze.com/viewcart,367,0,0
+1649937475074,342,delete items/view-405,200,OK,Full Transaction Thread Group 2-5,text,true,,860,449,7,8,https://api.demoblaze.com/view,342,0,0
+1649937475417,337,delete items/view-406,200,OK,Full Transaction Thread Group 2-5,text,true,,816,450,7,8,https://api.demoblaze.com/view,337,0,0
+1649937475754,342,delete items/view-404,200,OK,Full Transaction Thread Group 2-5,text,true,,749,450,7,8,https://api.demoblaze.com/view,342,0,0
+1649937476096,566,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-5,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,566,0,0
+1649937476605,397,contact/config.json-585,200,OK,Send Message Thread Group 3-1,text,true,,678,476,1,7,https://www.demoblaze.com/config.json,397,0,0
+1649937465099,12006,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-6,,true,,55303,12993,7,8,null,0,7,845
+1649937465099,762,/login-151,200,OK,Full Transaction Thread Group 2-6,text,true,,681,485,6,7,https://api.demoblaze.com/login,762,0,323
+1649937465863,358,/view-202,200,OK,Full Transaction Thread Group 2-6,text,true,,723,452,6,7,https://api.demoblaze.com/view,358,0,0
+1649937466221,418,/addtocart-205,200,OK,Full Transaction Thread Group 2-6,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,418,0,0
+1649937466639,536,/addtocart-207,200,OK,Full Transaction Thread Group 2-6,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,536,0,0
+1649937467176,894,/index.html-208,200,OK,Full Transaction Thread Group 2-6,text,true,,19926,517,7,8,https://www.demoblaze.com/index.html,837,0,522
+1649937468071,479,/addtocart-258,200,OK,Full Transaction Thread Group 2-6,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,479,0,0
+1649937468550,437,/addtocart-260,200,OK,Full Transaction Thread Group 2-6,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,437,0,0
+1649937468987,663,/index.html-261,200,OK,Full Transaction Thread Group 2-6,text,true,,19926,518,7,8,https://www.demoblaze.com/index.html,614,0,0
+1649937469650,368,/addtocart-314,200,OK,Full Transaction Thread Group 2-6,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,368,0,0
+1649937470018,360,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-6,text,true,,337,487,6,7,https://api.demoblaze.com/viewcart,360,0,0
+1649937470377,364,cart/view-339,200,OK,Full Transaction Thread Group 2-6,text,true,,900,449,6,7,https://api.demoblaze.com/view,364,0,0
+1649937470742,345,cart/view-340,200,OK,Full Transaction Thread Group 2-6,text,true,,948,450,7,8,https://api.demoblaze.com/view,344,0,0
+1649937471087,481,cart/view-341,200,OK,Full Transaction Thread Group 2-6,text,true,,713,450,7,8,https://api.demoblaze.com/view,481,0,0
+1649937471568,347,cart/view-342,200,OK,Full Transaction Thread Group 2-6,text,true,,879,449,6,7,https://api.demoblaze.com/view,346,0,0
+1649937471915,605,cart/view-343,200,OK,Full Transaction Thread Group 2-6,text,true,,729,450,6,7,https://api.demoblaze.com/view,605,0,0
+1649937472521,402,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-6,text,true,,538,493,6,7,https://api.demoblaze.com/deleteitem,402,0,0
+1649937472923,431,delete items/view-374,200,OK,Full Transaction Thread Group 2-6,text,true,,788,449,7,8,https://api.demoblaze.com/view,431,0,0
+1649937473354,349,delete items/view-373,200,OK,Full Transaction Thread Group 2-6,text,true,,841,450,7,8,https://api.demoblaze.com/view,348,0,0
+1649937473703,348,delete items/view-372,200,OK,Full Transaction Thread Group 2-6,text,true,,782,450,7,8,https://api.demoblaze.com/view,348,0,0
+1649937474051,333,delete items/view-370,200,OK,Full Transaction Thread Group 2-6,text,true,,473,476,6,7,https://api.demoblaze.com/view,333,0,0
+1649937474384,355,delete items/view-378,200,OK,Full Transaction Thread Group 2-6,text,true,,747,450,6,7,https://api.demoblaze.com/view,355,0,0
+1649937474739,437,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-6,text,true,,340,493,7,8,https://api.demoblaze.com/deleteitem,437,0,0
+1649937475176,388,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-6,text,true,,583,487,7,8,https://api.demoblaze.com/viewcart,388,0,0
+1649937475565,345,delete items/view-405,200,OK,Full Transaction Thread Group 2-6,text,true,,773,449,7,8,https://api.demoblaze.com/view,345,0,0
+1649937475911,352,delete items/view-406,200,OK,Full Transaction Thread Group 2-6,text,true,,789,450,7,8,https://api.demoblaze.com/view,352,0,0
+1649937476263,361,delete items/view-404,200,OK,Full Transaction Thread Group 2-6,text,true,,892,450,7,8,https://api.demoblaze.com/view,361,0,0
+1649937476625,488,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-6,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,488,0,0
+1649937477002,357,contact/entries-586,200,OK,Send Message Thread Group 3-1,text,true,,1701,392,1,7,https://api.demoblaze.com/entries,357,0,0
+1649937477359,477,contact/imgs/galaxy_s6.jpg-587,200,OK,Send Message Thread Group 3-1,bin,true,,107757,431,1,7,https://www.demoblaze.com/imgs/galaxy_s6.jpg,358,0,0
+1649937477837,663,contact/imgs/iphone_6.jpg-588,200,OK,Send Message Thread Group 3-1,bin,true,,201267,430,1,7,https://www.demoblaze.com/imgs/iphone_6.jpg,478,0,0
+1649937478500,375,contact/imgs/Nexus_6.jpg-590,200,OK,Send Message Thread Group 3-1,bin,true,,232121,429,1,7,https://www.demoblaze.com/imgs/Nexus_6.jpg,187,0,0
+1649937467092,12001,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-7,,true,,55763,12993,7,8,null,0,11,675
+1649937467093,920,/login-151,200,OK,Full Transaction Thread Group 2-7,text,true,,723,485,7,8,https://api.demoblaze.com/login,920,0,410
+1649937468014,342,/view-202,200,OK,Full Transaction Thread Group 2-7,text,true,,867,452,7,8,https://api.demoblaze.com/view,342,0,0
+1649937468357,575,/addtocart-205,200,OK,Full Transaction Thread Group 2-7,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,575,0,0
+1649937468932,715,/addtocart-207,200,OK,Full Transaction Thread Group 2-7,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,715,0,0
+1649937469648,807,/index.html-208,200,OK,Full Transaction Thread Group 2-7,text,true,,19926,517,6,7,https://www.demoblaze.com/index.html,698,0,265
+1649937470455,476,/addtocart-258,200,OK,Full Transaction Thread Group 2-7,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,476,0,0
+1649937470932,636,/addtocart-260,200,OK,Full Transaction Thread Group 2-7,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,636,0,0
+1649937471568,189,/index.html-261,200,OK,Full Transaction Thread Group 2-7,text,true,,19926,518,6,7,https://www.demoblaze.com/index.html,159,0,0
+1649937471757,763,/addtocart-314,200,OK,Full Transaction Thread Group 2-7,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,763,0,0
+1649937472520,410,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-7,text,true,,675,487,6,7,https://api.demoblaze.com/viewcart,410,0,0
+1649937472930,424,cart/view-339,200,OK,Full Transaction Thread Group 2-7,text,true,,890,449,7,8,https://api.demoblaze.com/view,424,0,0
+1649937473354,356,cart/view-340,200,OK,Full Transaction Thread Group 2-7,text,true,,837,450,7,8,https://api.demoblaze.com/view,355,0,0
+1649937473710,342,cart/view-341,200,OK,Full Transaction Thread Group 2-7,text,true,,759,450,7,8,https://api.demoblaze.com/view,341,0,0
+1649937474052,337,cart/view-342,200,OK,Full Transaction Thread Group 2-7,text,true,,666,449,6,7,https://api.demoblaze.com/view,336,0,0
+1649937474389,340,cart/view-343,200,OK,Full Transaction Thread Group 2-7,text,true,,824,450,6,7,https://api.demoblaze.com/view,340,0,0
+1649937474730,397,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-7,text,true,,340,493,7,8,https://api.demoblaze.com/deleteitem,397,0,0
+1649937475128,337,delete items/view-374,200,OK,Full Transaction Thread Group 2-7,text,true,,883,449,7,8,https://api.demoblaze.com/view,337,0,0
+1649937475466,344,delete items/view-373,200,OK,Full Transaction Thread Group 2-7,text,true,,674,450,7,8,https://api.demoblaze.com/view,344,0,0
+1649937475811,339,delete items/view-372,200,OK,Full Transaction Thread Group 2-7,text,true,,904,450,7,8,https://api.demoblaze.com/view,339,0,0
+1649937476151,352,delete items/view-370,200,OK,Full Transaction Thread Group 2-7,text,true,,473,476,7,8,https://api.demoblaze.com/view,352,0,0
+1649937476503,331,delete items/view-378,200,OK,Full Transaction Thread Group 2-7,text,true,,791,450,6,7,https://api.demoblaze.com/view,331,0,0
+1649937476834,341,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-7,text,true,,550,493,6,7,https://api.demoblaze.com/deleteitem,341,0,0
+1649937477175,365,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-7,text,true,,643,487,6,7,https://api.demoblaze.com/viewcart,365,0,0
+1649937477540,346,delete items/view-405,200,OK,Full Transaction Thread Group 2-7,text,true,,803,449,6,7,https://api.demoblaze.com/view,346,0,0
+1649937477886,389,delete items/view-406,200,OK,Full Transaction Thread Group 2-7,text,true,,677,450,6,7,https://api.demoblaze.com/view,389,0,0
+1649937478275,391,delete items/view-404,200,OK,Full Transaction Thread Group 2-7,text,true,,937,450,6,7,https://api.demoblaze.com/view,391,0,0
+1649937478666,437,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-7,text,true,,340,466,7,8,https://api.demoblaze.com/deletecart,437,0,0
+1649937478875,580,contact/imgs/Lumia_1520.jpg-589,200,OK,Send Message Thread Group 3-1,bin,true,,145538,432,1,7,https://www.demoblaze.com/imgs/Lumia_1520.jpg,449,0,0
+1649937479455,479,contact/imgs/xperia_z5.jpg-591,200,OK,Send Message Thread Group 3-1,bin,true,,143992,431,1,7,https://www.demoblaze.com/imgs/xperia_z5.jpg,346,0,0
+1649937479934,273,contact/imgs/HTC_M9.jpg-592,200,OK,Send Message Thread Group 3-1,bin,true,,97258,428,1,7,https://www.demoblaze.com/imgs/HTC_M9.jpg,199,0,0
+1649937469092,12034,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-8,,true,,54611,12993,7,7,null,0,10,975
+1649937469093,784,/login-151,200,OK,Full Transaction Thread Group 2-8,text,true,,647,485,7,8,https://api.demoblaze.com/login,784,0,339
+1649937469877,346,/view-202,200,OK,Full Transaction Thread Group 2-8,text,true,,711,452,7,8,https://api.demoblaze.com/view,346,0,0
+1649937470222,709,/addtocart-205,200,OK,Full Transaction Thread Group 2-8,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,709,0,0
+1649937470932,636,/addtocart-207,200,OK,Full Transaction Thread Group 2-8,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,636,0,0
+1649937471568,932,/index.html-208,200,OK,Full Transaction Thread Group 2-8,text,true,,19926,517,6,7,https://www.demoblaze.com/index.html,875,0,636
+1649937472500,443,/addtocart-258,200,OK,Full Transaction Thread Group 2-8,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,443,0,0
+1649937472943,411,/addtocart-260,200,OK,Full Transaction Thread Group 2-8,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,411,0,0
+1649937473354,169,/index.html-261,200,OK,Full Transaction Thread Group 2-8,text,true,,19926,518,7,8,https://www.demoblaze.com/index.html,164,0,0
+1649937473523,365,/addtocart-314,200,OK,Full Transaction Thread Group 2-8,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,365,0,0
+1649937473889,370,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-8,text,true,,337,487,6,7,https://api.demoblaze.com/viewcart,370,0,0
+1649937474259,397,cart/view-339,200,OK,Full Transaction Thread Group 2-8,text,true,,696,449,6,7,https://api.demoblaze.com/view,397,0,0
+1649937474656,339,cart/view-340,200,OK,Full Transaction Thread Group 2-8,text,true,,768,450,6,7,https://api.demoblaze.com/view,339,0,0
+1649937474996,344,cart/view-341,200,OK,Full Transaction Thread Group 2-8,text,true,,833,450,7,8,https://api.demoblaze.com/view,344,0,0
+1649937475340,338,cart/view-342,200,OK,Full Transaction Thread Group 2-8,text,true,,734,449,7,8,https://api.demoblaze.com/view,338,0,0
+1649937475678,338,cart/view-343,200,OK,Full Transaction Thread Group 2-8,text,true,,789,450,7,8,https://api.demoblaze.com/view,338,0,0
+1649937476016,341,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-8,text,true,,564,493,7,8,https://api.demoblaze.com/deleteitem,340,0,0
+1649937476357,331,delete items/view-374,200,OK,Full Transaction Thread Group 2-8,text,true,,794,449,6,7,https://api.demoblaze.com/view,331,0,0
+1649937476689,344,delete items/view-373,200,OK,Full Transaction Thread Group 2-8,text,true,,695,450,6,7,https://api.demoblaze.com/view,344,0,0
+1649937477033,351,delete items/view-372,200,OK,Full Transaction Thread Group 2-8,text,true,,906,450,6,7,https://api.demoblaze.com/view,351,0,0
+1649937477385,327,delete items/view-370,200,OK,Full Transaction Thread Group 2-8,text,true,,473,476,6,7,https://api.demoblaze.com/view,327,0,0
+1649937477713,350,delete items/view-378,200,OK,Full Transaction Thread Group 2-8,text,true,,642,450,6,7,https://api.demoblaze.com/view,349,0,0
+1649937478063,811,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-8,text,true,,340,493,6,7,https://api.demoblaze.com/deleteitem,811,0,0
+1649937478875,663,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-8,text,true,,337,487,6,7,https://api.demoblaze.com/viewcart,663,0,0
+1649937479539,409,delete items/view-405,200,OK,Full Transaction Thread Group 2-8,text,true,,793,449,6,7,https://api.demoblaze.com/view,409,0,0
+1649937479948,381,delete items/view-406,200,OK,Full Transaction Thread Group 2-8,text,true,,796,450,6,6,https://api.demoblaze.com/view,381,0,0
+1649937480329,347,delete items/view-404,200,OK,Full Transaction Thread Group 2-8,text,true,,909,450,6,6,https://api.demoblaze.com/view,347,0,0
+1649937480677,458,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-8,text,true,,340,466,7,7,https://api.demoblaze.com/deletecart,458,0,0
+1649937471085,12762,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-9,,true,,56120,12993,7,7,null,0,13,750
+1649937471086,925,/login-151,200,OK,Full Transaction Thread Group 2-9,text,true,,707,485,6,7,https://api.demoblaze.com/login,925,0,482
+1649937472011,489,/view-202,200,OK,Full Transaction Thread Group 2-9,text,true,,900,452,6,7,https://api.demoblaze.com/view,489,0,0
+1649937472500,460,/addtocart-205,200,OK,Full Transaction Thread Group 2-9,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,460,0,0
+1649937472960,475,/addtocart-207,200,OK,Full Transaction Thread Group 2-9,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,475,0,0
+1649937473437,752,/index.html-208,200,OK,Full Transaction Thread Group 2-9,text,true,,19926,517,7,8,https://www.demoblaze.com/index.html,695,0,268
+1649937474189,386,/addtocart-258,200,OK,Full Transaction Thread Group 2-9,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,386,0,0
+1649937474576,396,/addtocart-260,200,OK,Full Transaction Thread Group 2-9,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,396,0,0
+1649937474972,165,/index.html-261,200,OK,Full Transaction Thread Group 2-9,text,true,,19926,518,7,8,https://www.demoblaze.com/index.html,160,0,0
+1649937475137,385,/addtocart-314,200,OK,Full Transaction Thread Group 2-9,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,385,0,0
+1649937475523,371,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-9,text,true,,660,487,7,8,https://api.demoblaze.com/viewcart,371,0,0
+1649937475895,380,cart/view-339,200,OK,Full Transaction Thread Group 2-9,text,true,,755,449,7,8,https://api.demoblaze.com/view,380,0,0
+1649937476276,357,cart/view-340,200,OK,Full Transaction Thread Group 2-9,text,true,,803,450,7,8,https://api.demoblaze.com/view,357,0,0
+1649937476633,395,cart/view-341,200,OK,Full Transaction Thread Group 2-9,text,true,,811,450,6,7,https://api.demoblaze.com/view,395,0,0
+1649937477028,354,cart/view-342,200,OK,Full Transaction Thread Group 2-9,text,true,,823,449,6,7,https://api.demoblaze.com/view,354,0,0
+1649937477382,452,cart/view-343,200,OK,Full Transaction Thread Group 2-9,text,true,,803,450,6,7,https://api.demoblaze.com/view,452,0,0
+1649937477835,349,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-9,text,true,,677,493,6,7,https://api.demoblaze.com/deleteitem,349,0,0
+1649937478185,1264,delete items/view-374,200,OK,Full Transaction Thread Group 2-9,text,true,,896,449,6,7,https://api.demoblaze.com/view,1264,0,0
+1649937479449,480,delete items/view-373,200,OK,Full Transaction Thread Group 2-9,text,true,,696,450,6,7,https://api.demoblaze.com/view,480,0,0
+1649937479930,403,delete items/view-372,200,OK,Full Transaction Thread Group 2-9,text,true,,917,450,6,6,https://api.demoblaze.com/view,403,0,0
+1649937480334,337,delete items/view-370,200,OK,Full Transaction Thread Group 2-9,text,true,,473,476,6,6,https://api.demoblaze.com/view,337,0,0
+1649937480672,408,delete items/view-378,200,OK,Full Transaction Thread Group 2-9,text,true,,668,450,6,6,https://api.demoblaze.com/view,408,0,0
+1649937481080,342,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-9,text,true,,617,493,6,6,https://api.demoblaze.com/deleteitem,342,0,0
+1649937481423,462,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-9,text,true,,663,487,6,6,https://api.demoblaze.com/viewcart,462,0,0
+1649937481885,355,delete items/view-405,200,OK,Full Transaction Thread Group 2-9,text,true,,784,449,6,6,https://api.demoblaze.com/view,355,0,0
+1649937482240,397,delete items/view-406,200,OK,Full Transaction Thread Group 2-9,text,true,,740,450,6,6,https://api.demoblaze.com/view,397,0,0
+1649937482637,613,delete items/view-404,200,OK,Full Transaction Thread Group 2-9,text,true,,880,450,7,7,https://api.demoblaze.com/view,613,0,0
+1649937483250,610,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-9,text,true,,340,466,7,7,https://api.demoblaze.com/deletecart,609,0,0
+1649937473085,11977,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-10,,true,,40233,12993,6,6,null,0,11,603
+1649937473086,782,/login-151,200,OK,Full Transaction Thread Group 2-10,text,true,,522,485,7,8,https://api.demoblaze.com/login,782,0,330
+1649937473868,347,/view-202,200,OK,Full Transaction Thread Group 2-10,text,true,,822,452,7,8,https://api.demoblaze.com/view,347,0,0
+1649937474216,377,/addtocart-205,200,OK,Full Transaction Thread Group 2-10,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,377,0,0
+1649937474593,428,/addtocart-207,200,OK,Full Transaction Thread Group 2-10,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,428,0,0
+1649937475022,672,/index.html-208,200,OK,Full Transaction Thread Group 2-10,text,true,,4981,517,7,8,https://www.demoblaze.com/index.html,672,0,273
+1649937475695,361,/addtocart-258,200,OK,Full Transaction Thread Group 2-10,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,361,0,0
+1649937476057,501,/addtocart-260,200,OK,Full Transaction Thread Group 2-10,text,true,,331,545,7,8,https://api.demoblaze.com/addtocart,501,0,0
+1649937476558,222,/index.html-261,200,OK,Full Transaction Thread Group 2-10,text,true,,19926,518,6,7,https://www.demoblaze.com/index.html,165,0,0
+1649937476780,395,/addtocart-314,200,OK,Full Transaction Thread Group 2-10,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,395,0,0
+1649937477175,367,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-10,text,true,,547,487,6,7,https://api.demoblaze.com/viewcart,367,0,0
+1649937477542,345,cart/view-339,200,OK,Full Transaction Thread Group 2-10,text,true,,781,449,6,7,https://api.demoblaze.com/view,345,0,0
+1649937477888,606,cart/view-340,200,OK,Full Transaction Thread Group 2-10,text,true,,928,450,6,7,https://api.demoblaze.com/view,606,0,0
+1649937478494,380,cart/view-341,200,OK,Full Transaction Thread Group 2-10,text,true,,700,450,6,7,https://api.demoblaze.com/view,380,0,0
+1649937478875,645,cart/view-342,200,OK,Full Transaction Thread Group 2-10,text,true,,715,449,6,7,https://api.demoblaze.com/view,645,0,0
+1649937479520,435,cart/view-343,200,OK,Full Transaction Thread Group 2-10,text,true,,810,450,6,7,https://api.demoblaze.com/view,434,0,0
+1649937479955,545,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-10,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,545,0,0
+1649937480500,353,delete items/view-374,200,OK,Full Transaction Thread Group 2-10,text,true,,650,449,6,6,https://api.demoblaze.com/view,353,0,0
+1649937480853,348,delete items/view-373,200,OK,Full Transaction Thread Group 2-10,text,true,,786,450,6,6,https://api.demoblaze.com/view,348,0,0
+1649937481201,499,delete items/view-372,200,OK,Full Transaction Thread Group 2-10,text,true,,804,450,6,6,https://api.demoblaze.com/view,499,0,0
+1649937481700,331,delete items/view-370,200,OK,Full Transaction Thread Group 2-10,text,true,,473,476,6,6,https://api.demoblaze.com/view,331,0,0
+1649937482032,350,delete items/view-378,200,OK,Full Transaction Thread Group 2-10,text,true,,791,450,6,6,https://api.demoblaze.com/view,350,0,0
+1649937482382,403,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-10,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,403,0,0
+1649937482785,790,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-10,text,true,,847,487,7,7,https://api.demoblaze.com/viewcart,790,0,0
+1649937483576,344,delete items/view-405,200,OK,Full Transaction Thread Group 2-10,text,true,,744,449,6,6,https://api.demoblaze.com/view,344,0,0
+1649937483920,342,delete items/view-406,200,OK,Full Transaction Thread Group 2-10,text,true,,763,450,6,6,https://api.demoblaze.com/view,342,0,0
+1649937484263,347,delete items/view-404,200,OK,Full Transaction Thread Group 2-10,text,true,,968,450,6,6,https://api.demoblaze.com/view,347,0,0
+1649937484610,462,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-10,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,462,0,0
+1649937475089,11158,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-11,,true,,55219,12993,6,6,null,0,7,520
+1649937475090,693,/login-151,200,OK,Full Transaction Thread Group 2-11,text,true,,537,485,7,8,https://api.demoblaze.com/login,693,0,261
+1649937475783,343,/view-202,200,OK,Full Transaction Thread Group 2-11,text,true,,736,452,7,8,https://api.demoblaze.com/view,343,0,0
+1649937476126,417,/addtocart-205,200,OK,Full Transaction Thread Group 2-11,text,true,,331,544,7,8,https://api.demoblaze.com/addtocart,417,0,0
+1649937476543,389,/addtocart-207,200,OK,Full Transaction Thread Group 2-11,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,389,0,0
+1649937476933,540,/index.html-208,200,OK,Full Transaction Thread Group 2-11,text,true,,19926,517,6,7,https://www.demoblaze.com/index.html,484,0,259
+1649937477474,374,/addtocart-258,200,OK,Full Transaction Thread Group 2-11,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,374,0,0
+1649937477848,646,/addtocart-260,200,OK,Full Transaction Thread Group 2-11,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,646,0,0
+1649937478494,164,/index.html-261,200,OK,Full Transaction Thread Group 2-11,text,true,,19926,518,6,7,https://www.demoblaze.com/index.html,158,0,0
+1649937478658,348,/addtocart-314,200,OK,Full Transaction Thread Group 2-11,text,true,,331,545,6,7,https://api.demoblaze.com/addtocart,348,0,0
+1649937479007,521,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-11,text,true,,337,487,6,7,https://api.demoblaze.com/viewcart,521,0,0
+1649937479528,431,cart/view-339,200,OK,Full Transaction Thread Group 2-11,text,true,,758,449,6,7,https://api.demoblaze.com/view,430,0,0
+1649937479959,490,cart/view-340,200,OK,Full Transaction Thread Group 2-11,text,true,,818,450,6,6,https://api.demoblaze.com/view,490,0,0
+1649937480449,352,cart/view-341,200,OK,Full Transaction Thread Group 2-11,text,true,,712,450,6,6,https://api.demoblaze.com/view,351,0,0
+1649937480801,349,cart/view-342,200,OK,Full Transaction Thread Group 2-11,text,true,,788,449,6,6,https://api.demoblaze.com/view,349,0,0
+1649937481150,549,cart/view-343,200,OK,Full Transaction Thread Group 2-11,text,true,,846,450,6,6,https://api.demoblaze.com/view,549,0,0
+1649937481700,391,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-11,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,390,0,0
+1649937482091,334,delete items/view-374,200,OK,Full Transaction Thread Group 2-11,text,true,,875,449,6,6,https://api.demoblaze.com/view,334,0,0
+1649937482425,356,delete items/view-373,200,OK,Full Transaction Thread Group 2-11,text,true,,747,450,6,6,https://api.demoblaze.com/view,356,0,0
+1649937482781,469,delete items/view-372,200,OK,Full Transaction Thread Group 2-11,text,true,,971,450,7,7,https://api.demoblaze.com/view,469,0,0
+1649937483250,337,delete items/view-370,200,OK,Full Transaction Thread Group 2-11,text,true,,473,476,7,7,https://api.demoblaze.com/view,337,0,0
+1649937483587,343,delete items/view-378,200,OK,Full Transaction Thread Group 2-11,text,true,,782,450,6,6,https://api.demoblaze.com/view,343,0,0
+1649937483931,351,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-11,text,true,,563,493,6,6,https://api.demoblaze.com/deleteitem,350,0,0
+1649937484282,365,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-11,text,true,,645,487,6,6,https://api.demoblaze.com/viewcart,365,0,0
+1649937484648,342,delete items/view-405,200,OK,Full Transaction Thread Group 2-11,text,true,,897,449,6,6,https://api.demoblaze.com/view,342,0,0
+1649937484990,338,delete items/view-406,200,OK,Full Transaction Thread Group 2-11,text,true,,799,450,6,6,https://api.demoblaze.com/view,338,0,0
+1649937485328,344,delete items/view-404,200,OK,Full Transaction Thread Group 2-11,text,true,,748,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937485672,582,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-11,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,582,0,0
+1649937477090,12318,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-12,,true,,40835,12993,7,7,null,0,12,751
+1649937477091,743,/login-151,200,OK,Full Transaction Thread Group 2-12,text,true,,648,485,6,7,https://api.demoblaze.com/login,743,0,267
+1649937477835,659,/view-202,200,OK,Full Transaction Thread Group 2-12,text,true,,826,452,6,7,https://api.demoblaze.com/view,659,0,0
+1649937478494,380,/addtocart-205,200,OK,Full Transaction Thread Group 2-12,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,380,0,0
+1649937478875,681,/addtocart-207,200,OK,Full Transaction Thread Group 2-12,text,true,,331,544,6,7,https://api.demoblaze.com/addtocart,681,0,0
+1649937479557,1237,/index.html-208,200,OK,Full Transaction Thread Group 2-12,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,995,0,484
+1649937480794,389,/addtocart-258,200,OK,Full Transaction Thread Group 2-12,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,389,0,0
+1649937481183,516,/addtocart-260,200,OK,Full Transaction Thread Group 2-12,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,516,0,0
+1649937481700,144,/index.html-261,200,OK,Full Transaction Thread Group 2-12,text,true,,5284,518,6,6,https://www.demoblaze.com/index.html,143,0,0
+1649937481844,378,/addtocart-314,200,OK,Full Transaction Thread Group 2-12,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,378,0,0
+1649937482222,437,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-12,text,true,,750,487,6,6,https://api.demoblaze.com/viewcart,436,0,0
+1649937482659,591,cart/view-339,200,OK,Full Transaction Thread Group 2-12,text,true,,708,449,7,7,https://api.demoblaze.com/view,590,0,0
+1649937483250,371,cart/view-340,200,OK,Full Transaction Thread Group 2-12,text,true,,958,450,7,7,https://api.demoblaze.com/view,371,0,0
+1649937483622,340,cart/view-341,200,OK,Full Transaction Thread Group 2-12,text,true,,779,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937483963,361,cart/view-342,200,OK,Full Transaction Thread Group 2-12,text,true,,736,449,6,6,https://api.demoblaze.com/view,361,0,0
+1649937484325,347,cart/view-343,200,OK,Full Transaction Thread Group 2-12,text,true,,811,450,6,6,https://api.demoblaze.com/view,346,0,0
+1649937484672,387,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-12,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,387,0,0
+1649937485060,338,delete items/view-374,200,OK,Full Transaction Thread Group 2-12,text,true,,784,449,6,6,https://api.demoblaze.com/view,338,0,0
+1649937485398,360,delete items/view-373,200,OK,Full Transaction Thread Group 2-12,text,true,,760,450,6,6,https://api.demoblaze.com/view,360,0,0
+1649937485759,444,delete items/view-372,200,OK,Full Transaction Thread Group 2-12,text,true,,833,450,6,6,https://api.demoblaze.com/view,444,0,0
+1649937486203,332,delete items/view-370,200,OK,Full Transaction Thread Group 2-12,text,true,,473,476,5,5,https://api.demoblaze.com/view,332,0,0
+1649937486535,352,delete items/view-378,200,OK,Full Transaction Thread Group 2-12,text,true,,769,450,5,5,https://api.demoblaze.com/view,352,0,0
+1649937486887,372,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-12,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,372,0,0
+1649937487259,367,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-12,text,true,,643,487,6,6,https://api.demoblaze.com/viewcart,367,0,0
+1649937487627,345,delete items/view-405,200,OK,Full Transaction Thread Group 2-12,text,true,,826,449,6,6,https://api.demoblaze.com/view,345,0,0
+1649937487972,597,delete items/view-406,200,OK,Full Transaction Thread Group 2-12,text,true,,651,450,6,6,https://api.demoblaze.com/view,597,0,0
+1649937488569,348,delete items/view-404,200,OK,Full Transaction Thread Group 2-12,text,true,,995,450,6,6,https://api.demoblaze.com/view,348,0,0
+1649937488918,502,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-12,text,true,,340,466,7,7,https://api.demoblaze.com/deletecart,502,0,0
+1649937479090,11190,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-13,,true,,40107,12993,6,6,null,0,7,691
+1649937479091,856,/login-151,200,OK,Full Transaction Thread Group 2-13,text,true,,632,485,6,7,https://api.demoblaze.com/login,856,0,426
+1649937479947,384,/view-202,200,OK,Full Transaction Thread Group 2-13,text,true,,758,452,6,6,https://api.demoblaze.com/view,384,0,0
+1649937480331,381,/addtocart-205,200,OK,Full Transaction Thread Group 2-13,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,381,0,0
+1649937480713,399,/addtocart-207,200,OK,Full Transaction Thread Group 2-13,text,true,,331,544,7,7,https://api.demoblaze.com/addtocart,399,0,0
+1649937481113,764,/index.html-208,200,OK,Full Transaction Thread Group 2-13,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,707,0,265
+1649937481877,382,/addtocart-258,200,OK,Full Transaction Thread Group 2-13,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,382,0,0
+1649937482259,391,/addtocart-260,200,OK,Full Transaction Thread Group 2-13,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,391,0,0
+1649937482650,194,/index.html-261,200,OK,Full Transaction Thread Group 2-13,text,true,,5098,518,6,6,https://www.demoblaze.com/index.html,192,0,0
+1649937482844,722,/addtocart-314,200,OK,Full Transaction Thread Group 2-13,text,true,,331,545,7,7,https://api.demoblaze.com/addtocart,722,0,0
+1649937483566,354,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-13,text,true,,337,487,6,6,https://api.demoblaze.com/viewcart,353,0,0
+1649937483920,330,cart/view-339,200,OK,Full Transaction Thread Group 2-13,text,true,,653,449,6,6,https://api.demoblaze.com/view,330,0,0
+1649937484250,333,cart/view-340,200,OK,Full Transaction Thread Group 2-13,text,true,,920,450,6,6,https://api.demoblaze.com/view,333,0,0
+1649937484584,357,cart/view-341,200,OK,Full Transaction Thread Group 2-13,text,true,,635,450,6,6,https://api.demoblaze.com/view,357,0,0
+1649937484942,342,cart/view-342,200,OK,Full Transaction Thread Group 2-13,text,true,,652,449,6,6,https://api.demoblaze.com/view,342,0,0
+1649937485284,346,cart/view-343,200,OK,Full Transaction Thread Group 2-13,text,true,,714,450,6,6,https://api.demoblaze.com/view,346,0,0
+1649937485630,389,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-13,text,true,,663,493,6,6,https://api.demoblaze.com/deleteitem,389,0,0
+1649937486019,343,delete items/view-374,200,OK,Full Transaction Thread Group 2-13,text,true,,727,449,5,5,https://api.demoblaze.com/view,343,0,0
+1649937486362,350,delete items/view-373,200,OK,Full Transaction Thread Group 2-13,text,true,,824,450,5,5,https://api.demoblaze.com/view,350,0,0
+1649937486712,339,delete items/view-372,200,OK,Full Transaction Thread Group 2-13,text,true,,743,450,5,5,https://api.demoblaze.com/view,339,0,0
+1649937487051,328,delete items/view-370,200,OK,Full Transaction Thread Group 2-13,text,true,,473,476,6,6,https://api.demoblaze.com/view,328,0,0
+1649937487379,348,delete items/view-378,200,OK,Full Transaction Thread Group 2-13,text,true,,715,450,6,6,https://api.demoblaze.com/view,348,0,0
+1649937487727,792,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-13,text,true,,688,493,6,6,https://api.demoblaze.com/deleteitem,792,0,0
+1649937488519,372,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-13,text,true,,660,487,6,6,https://api.demoblaze.com/viewcart,372,0,0
+1649937488892,340,delete items/view-405,200,OK,Full Transaction Thread Group 2-13,text,true,,861,449,7,7,https://api.demoblaze.com/view,339,0,0
+1649937489232,341,delete items/view-406,200,OK,Full Transaction Thread Group 2-13,text,true,,648,450,6,6,https://api.demoblaze.com/view,341,0,0
+1649937489574,332,delete items/view-404,200,OK,Full Transaction Thread Group 2-13,text,true,,785,450,6,6,https://api.demoblaze.com/view,332,0,0
+1649937489906,381,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-13,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,381,0,0
+1649937481085,11913,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-14,,true,,39758,12993,6,6,null,0,10,538
+1649937481086,708,/login-151,200,OK,Full Transaction Thread Group 2-14,text,true,,603,485,6,6,https://api.demoblaze.com/login,708,0,262
+1649937481794,346,/view-202,200,OK,Full Transaction Thread Group 2-14,text,true,,692,452,6,6,https://api.demoblaze.com/view,346,0,0
+1649937482140,523,/addtocart-205,200,OK,Full Transaction Thread Group 2-14,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,523,0,0
+1649937482663,586,/addtocart-207,200,OK,Full Transaction Thread Group 2-14,text,true,,331,544,7,7,https://api.demoblaze.com/addtocart,586,0,0
+1649937483251,485,/index.html-208,200,OK,Full Transaction Thread Group 2-14,text,true,,4967,517,7,7,https://www.demoblaze.com/index.html,484,0,276
+1649937483736,370,/addtocart-258,200,OK,Full Transaction Thread Group 2-14,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,370,0,0
+1649937484106,365,/addtocart-260,200,OK,Full Transaction Thread Group 2-14,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,365,0,0
+1649937484472,419,/index.html-261,200,OK,Full Transaction Thread Group 2-14,text,true,,19926,518,6,6,https://www.demoblaze.com/index.html,361,0,0
+1649937484891,364,/addtocart-314,200,OK,Full Transaction Thread Group 2-14,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,364,0,0
+1649937485255,1137,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-14,text,true,,337,487,5,5,https://api.demoblaze.com/viewcart,1137,0,0
+1649937486392,347,cart/view-339,200,OK,Full Transaction Thread Group 2-14,text,true,,754,449,5,5,https://api.demoblaze.com/view,347,0,0
+1649937486740,346,cart/view-340,200,OK,Full Transaction Thread Group 2-14,text,true,,846,450,5,5,https://api.demoblaze.com/view,346,0,0
+1649937487086,345,cart/view-341,200,OK,Full Transaction Thread Group 2-14,text,true,,882,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937487431,342,cart/view-342,200,OK,Full Transaction Thread Group 2-14,text,true,,701,449,6,6,https://api.demoblaze.com/view,342,0,0
+1649937487773,746,cart/view-343,200,OK,Full Transaction Thread Group 2-14,text,true,,752,450,6,6,https://api.demoblaze.com/view,746,0,0
+1649937488519,380,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-14,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,380,0,0
+1649937488900,339,delete items/view-374,200,OK,Full Transaction Thread Group 2-14,text,true,,693,449,7,7,https://api.demoblaze.com/view,339,0,0
+1649937489239,340,delete items/view-373,200,OK,Full Transaction Thread Group 2-14,text,true,,758,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937489579,340,delete items/view-372,200,OK,Full Transaction Thread Group 2-14,text,true,,910,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937489920,329,delete items/view-370,200,OK,Full Transaction Thread Group 2-14,text,true,,473,476,6,6,https://api.demoblaze.com/view,329,0,0
+1649937490250,346,delete items/view-378,200,OK,Full Transaction Thread Group 2-14,text,true,,807,450,5,5,https://api.demoblaze.com/view,346,0,0
+1649937490596,371,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-14,text,true,,340,493,5,5,https://api.demoblaze.com/deleteitem,371,0,0
+1649937490967,529,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-14,text,true,,604,487,6,6,https://api.demoblaze.com/viewcart,529,0,0
+1649937491497,346,delete items/view-405,200,OK,Full Transaction Thread Group 2-14,text,true,,760,449,6,6,https://api.demoblaze.com/view,346,0,0
+1649937491843,344,delete items/view-406,200,OK,Full Transaction Thread Group 2-14,text,true,,663,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937492187,346,delete items/view-404,200,OK,Full Transaction Thread Group 2-14,text,true,,955,450,6,6,https://api.demoblaze.com/view,346,0,0
+1649937492534,474,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-14,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,474,0,0
+1649937483085,10880,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-15,,true,,55442,12993,6,6,null,0,9,649
+1649937483086,814,/login-151,200,OK,Full Transaction Thread Group 2-15,text,true,,582,485,6,6,https://api.demoblaze.com/login,814,0,381
+1649937483900,342,/view-202,200,OK,Full Transaction Thread Group 2-15,text,true,,680,452,6,6,https://api.demoblaze.com/view,342,0,0
+1649937484243,374,/addtocart-205,200,OK,Full Transaction Thread Group 2-15,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,374,0,0
+1649937484617,370,/addtocart-207,200,OK,Full Transaction Thread Group 2-15,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,370,0,0
+1649937484988,565,/index.html-208,200,OK,Full Transaction Thread Group 2-15,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,507,0,268
+1649937485553,504,/addtocart-258,200,OK,Full Transaction Thread Group 2-15,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,504,0,0
+1649937486057,376,/addtocart-260,200,OK,Full Transaction Thread Group 2-15,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,376,0,0
+1649937486433,165,/index.html-261,200,OK,Full Transaction Thread Group 2-15,text,true,,19926,518,5,5,https://www.demoblaze.com/index.html,160,0,0
+1649937486598,387,/addtocart-314,200,OK,Full Transaction Thread Group 2-15,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,387,0,0
+1649937486986,388,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-15,text,true,,644,487,6,6,https://api.demoblaze.com/viewcart,388,0,0
+1649937487374,351,cart/view-339,200,OK,Full Transaction Thread Group 2-15,text,true,,848,449,6,6,https://api.demoblaze.com/view,351,0,0
+1649937487725,466,cart/view-340,200,OK,Full Transaction Thread Group 2-15,text,true,,958,450,6,6,https://api.demoblaze.com/view,466,0,0
+1649937488191,442,cart/view-341,200,OK,Full Transaction Thread Group 2-15,text,true,,771,450,6,6,https://api.demoblaze.com/view,442,0,0
+1649937488633,343,cart/view-342,200,OK,Full Transaction Thread Group 2-15,text,true,,721,449,6,6,https://api.demoblaze.com/view,343,0,0
+1649937488976,341,cart/view-343,200,OK,Full Transaction Thread Group 2-15,text,true,,634,450,7,7,https://api.demoblaze.com/view,341,0,0
+1649937489317,382,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-15,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,382,0,0
+1649937489699,348,delete items/view-374,200,OK,Full Transaction Thread Group 2-15,text,true,,669,449,6,6,https://api.demoblaze.com/view,348,0,0
+1649937490048,345,delete items/view-373,200,OK,Full Transaction Thread Group 2-15,text,true,,641,450,5,5,https://api.demoblaze.com/view,345,0,0
+1649937490394,346,delete items/view-372,200,OK,Full Transaction Thread Group 2-15,text,true,,939,450,5,5,https://api.demoblaze.com/view,346,0,0
+1649937490740,330,delete items/view-370,200,OK,Full Transaction Thread Group 2-15,text,true,,473,476,5,5,https://api.demoblaze.com/view,330,0,0
+1649937491070,391,delete items/view-378,200,OK,Full Transaction Thread Group 2-15,text,true,,811,450,6,6,https://api.demoblaze.com/view,390,0,0
+1649937491461,349,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-15,text,true,,703,493,6,6,https://api.demoblaze.com/deleteitem,349,0,0
+1649937491810,366,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-15,text,true,,739,487,6,6,https://api.demoblaze.com/viewcart,366,0,0
+1649937492177,347,delete items/view-405,200,OK,Full Transaction Thread Group 2-15,text,true,,776,449,6,6,https://api.demoblaze.com/view,347,0,0
+1649937492524,349,delete items/view-406,200,OK,Full Transaction Thread Group 2-15,text,true,,881,450,6,6,https://api.demoblaze.com/view,349,0,0
+1649937492874,455,delete items/view-404,200,OK,Full Transaction Thread Group 2-15,text,true,,785,450,6,6,https://api.demoblaze.com/view,455,0,0
+1649937493330,644,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-15,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,644,0,0
+1649937485085,11163,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-16,,true,,55091,12993,6,6,null,0,13,538
+1649937485086,715,/login-151,200,OK,Full Transaction Thread Group 2-16,text,true,,592,485,6,6,https://api.demoblaze.com/login,715,0,282
+1649937485802,397,/view-202,200,OK,Full Transaction Thread Group 2-16,text,true,,813,452,6,6,https://api.demoblaze.com/view,397,0,0
+1649937486199,376,/addtocart-205,200,OK,Full Transaction Thread Group 2-16,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,376,0,0
+1649937486575,376,/addtocart-207,200,OK,Full Transaction Thread Group 2-16,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,376,0,0
+1649937486953,552,/index.html-208,200,OK,Full Transaction Thread Group 2-16,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,495,0,256
+1649937487505,374,/addtocart-258,200,OK,Full Transaction Thread Group 2-16,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,374,0,0
+1649937487879,737,/addtocart-260,200,OK,Full Transaction Thread Group 2-16,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,737,0,0
+1649937488616,164,/index.html-261,200,OK,Full Transaction Thread Group 2-16,text,true,,19926,518,6,6,https://www.demoblaze.com/index.html,158,0,0
+1649937488780,354,/addtocart-314,200,OK,Full Transaction Thread Group 2-16,text,true,,331,545,7,7,https://api.demoblaze.com/addtocart,354,0,0
+1649937489134,378,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-16,text,true,,700,487,6,6,https://api.demoblaze.com/viewcart,378,0,0
+1649937489512,382,cart/view-339,200,OK,Full Transaction Thread Group 2-16,text,true,,864,449,6,6,https://api.demoblaze.com/view,382,0,0
+1649937489895,350,cart/view-340,200,OK,Full Transaction Thread Group 2-16,text,true,,745,450,6,6,https://api.demoblaze.com/view,349,0,0
+1649937490245,341,cart/view-341,200,OK,Full Transaction Thread Group 2-16,text,true,,828,450,5,5,https://api.demoblaze.com/view,341,0,0
+1649937490587,350,cart/view-342,200,OK,Full Transaction Thread Group 2-16,text,true,,665,449,5,5,https://api.demoblaze.com/view,350,0,0
+1649937490938,342,cart/view-343,200,OK,Full Transaction Thread Group 2-16,text,true,,668,450,6,6,https://api.demoblaze.com/view,342,0,0
+1649937491280,441,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-16,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,441,0,0
+1649937491722,342,delete items/view-374,200,OK,Full Transaction Thread Group 2-16,text,true,,663,449,6,6,https://api.demoblaze.com/view,342,0,0
+1649937492065,346,delete items/view-373,200,OK,Full Transaction Thread Group 2-16,text,true,,789,450,6,6,https://api.demoblaze.com/view,346,0,0
+1649937492412,345,delete items/view-372,200,OK,Full Transaction Thread Group 2-16,text,true,,942,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937492757,571,delete items/view-370,200,OK,Full Transaction Thread Group 2-16,text,true,,473,476,6,6,https://api.demoblaze.com/view,571,0,0
+1649937493329,645,delete items/view-378,200,OK,Full Transaction Thread Group 2-16,text,true,,693,450,6,6,https://api.demoblaze.com/view,645,0,0
+1649937493975,357,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-16,text,true,,702,493,5,5,https://api.demoblaze.com/deleteitem,356,0,0
+1649937494332,383,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-16,text,true,,531,487,5,5,https://api.demoblaze.com/viewcart,382,0,0
+1649937494715,341,delete items/view-405,200,OK,Full Transaction Thread Group 2-16,text,true,,803,449,5,5,https://api.demoblaze.com/view,340,0,0
+1649937495056,339,delete items/view-406,200,OK,Full Transaction Thread Group 2-16,text,true,,635,450,6,6,https://api.demoblaze.com/view,338,0,0
+1649937495395,351,delete items/view-404,200,OK,Full Transaction Thread Group 2-16,text,true,,798,450,6,6,https://api.demoblaze.com/view,351,0,0
+1649937495747,514,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-16,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,514,0,0
+1649937487099,11760,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-17,,true,,40795,12993,6,6,null,0,13,551
+1649937487100,677,/login-151,200,OK,Full Transaction Thread Group 2-17,text,true,,540,485,6,6,https://api.demoblaze.com/login,677,0,255
+1649937487777,794,/view-202,200,OK,Full Transaction Thread Group 2-17,text,true,,658,452,6,6,https://api.demoblaze.com/view,793,0,0
+1649937488571,366,/addtocart-205,200,OK,Full Transaction Thread Group 2-17,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,366,0,0
+1649937488937,366,/addtocart-207,200,OK,Full Transaction Thread Group 2-17,text,true,,331,544,7,7,https://api.demoblaze.com/addtocart,366,0,0
+1649937489303,574,/index.html-208,200,OK,Full Transaction Thread Group 2-17,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,518,0,296
+1649937489877,362,/addtocart-258,200,OK,Full Transaction Thread Group 2-17,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,362,0,0
+1649937490240,373,/addtocart-260,200,OK,Full Transaction Thread Group 2-17,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,373,0,0
+1649937490613,130,/index.html-261,200,OK,Full Transaction Thread Group 2-17,text,true,,5078,518,5,5,https://www.demoblaze.com/index.html,129,0,0
+1649937490744,1150,/addtocart-314,200,OK,Full Transaction Thread Group 2-17,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,1150,0,0
+1649937491894,372,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-17,text,true,,650,487,6,6,https://api.demoblaze.com/viewcart,372,0,0
+1649937492266,342,cart/view-339,200,OK,Full Transaction Thread Group 2-17,text,true,,772,449,6,6,https://api.demoblaze.com/view,341,0,0
+1649937492608,350,cart/view-340,200,OK,Full Transaction Thread Group 2-17,text,true,,890,450,6,6,https://api.demoblaze.com/view,349,0,0
+1649937492958,371,cart/view-341,200,OK,Full Transaction Thread Group 2-17,text,true,,656,450,6,6,https://api.demoblaze.com/view,371,0,0
+1649937493330,644,cart/view-342,200,OK,Full Transaction Thread Group 2-17,text,true,,831,449,6,6,https://api.demoblaze.com/view,644,0,0
+1649937493975,367,cart/view-343,200,OK,Full Transaction Thread Group 2-17,text,true,,847,450,5,5,https://api.demoblaze.com/view,367,0,0
+1649937494343,349,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-17,text,true,,626,493,5,5,https://api.demoblaze.com/deleteitem,349,0,0
+1649937494693,340,delete items/view-374,200,OK,Full Transaction Thread Group 2-17,text,true,,805,449,5,5,https://api.demoblaze.com/view,340,0,0
+1649937495033,343,delete items/view-373,200,OK,Full Transaction Thread Group 2-17,text,true,,733,450,6,6,https://api.demoblaze.com/view,343,0,0
+1649937495377,344,delete items/view-372,200,OK,Full Transaction Thread Group 2-17,text,true,,862,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937495722,324,delete items/view-370,200,OK,Full Transaction Thread Group 2-17,text,true,,473,476,6,6,https://api.demoblaze.com/view,324,0,0
+1649937496047,338,delete items/view-378,200,OK,Full Transaction Thread Group 2-17,text,true,,887,450,5,5,https://api.demoblaze.com/view,338,0,0
+1649937496385,373,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-17,text,true,,344,493,5,5,https://api.demoblaze.com/deleteitem,373,0,0
+1649937496759,405,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-17,text,true,,598,487,6,6,https://api.demoblaze.com/viewcart,405,0,0
+1649937497165,344,delete items/view-405,200,OK,Full Transaction Thread Group 2-17,text,true,,848,449,6,6,https://api.demoblaze.com/view,344,0,0
+1649937497509,362,delete items/view-406,200,OK,Full Transaction Thread Group 2-17,text,true,,809,450,6,6,https://api.demoblaze.com/view,362,0,0
+1649937497871,585,delete items/view-404,200,OK,Full Transaction Thread Group 2-17,text,true,,967,450,6,6,https://api.demoblaze.com/view,585,0,0
+1649937498457,415,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-17,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,415,0,0
+1649937489090,11532,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-18,,true,,56186,12993,6,6,null,0,12,774
+1649937489090,698,/login-151,200,OK,Full Transaction Thread Group 2-18,text,true,,705,485,6,6,https://api.demoblaze.com/login,698,0,265
+1649937489789,350,/view-202,200,OK,Full Transaction Thread Group 2-18,text,true,,713,452,6,6,https://api.demoblaze.com/view,350,0,0
+1649937490140,371,/addtocart-205,200,OK,Full Transaction Thread Group 2-18,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,371,0,0
+1649937490512,368,/addtocart-207,200,OK,Full Transaction Thread Group 2-18,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,368,0,0
+1649937490882,990,/index.html-208,200,OK,Full Transaction Thread Group 2-18,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,935,0,509
+1649937491872,397,/addtocart-258,200,OK,Full Transaction Thread Group 2-18,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,397,0,0
+1649937492270,399,/addtocart-260,200,OK,Full Transaction Thread Group 2-18,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,399,0,0
+1649937492669,163,/index.html-261,200,OK,Full Transaction Thread Group 2-18,text,true,,19926,518,6,6,https://www.demoblaze.com/index.html,157,0,0
+1649937492832,497,/addtocart-314,200,OK,Full Transaction Thread Group 2-18,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,497,0,0
+1649937493329,645,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-18,text,true,,699,487,6,6,https://api.demoblaze.com/viewcart,645,0,0
+1649937493975,368,cart/view-339,200,OK,Full Transaction Thread Group 2-18,text,true,,835,449,5,5,https://api.demoblaze.com/view,367,0,0
+1649937494343,357,cart/view-340,200,OK,Full Transaction Thread Group 2-18,text,true,,979,450,5,5,https://api.demoblaze.com/view,357,0,0
+1649937494700,347,cart/view-341,200,OK,Full Transaction Thread Group 2-18,text,true,,861,450,5,5,https://api.demoblaze.com/view,347,0,0
+1649937495047,335,cart/view-342,200,OK,Full Transaction Thread Group 2-18,text,true,,857,449,6,6,https://api.demoblaze.com/view,335,0,0
+1649937495382,341,cart/view-343,200,OK,Full Transaction Thread Group 2-18,text,true,,866,450,6,6,https://api.demoblaze.com/view,341,0,0
+1649937495724,374,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-18,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,374,0,0
+1649937496098,346,delete items/view-374,200,OK,Full Transaction Thread Group 2-18,text,true,,800,449,5,5,https://api.demoblaze.com/view,346,0,0
+1649937496444,346,delete items/view-373,200,OK,Full Transaction Thread Group 2-18,text,true,,859,450,5,5,https://api.demoblaze.com/view,346,0,0
+1649937496790,349,delete items/view-372,200,OK,Full Transaction Thread Group 2-18,text,true,,863,450,6,6,https://api.demoblaze.com/view,349,0,0
+1649937497139,333,delete items/view-370,200,OK,Full Transaction Thread Group 2-18,text,true,,473,476,6,6,https://api.demoblaze.com/view,333,0,0
+1649937497472,342,delete items/view-378,200,OK,Full Transaction Thread Group 2-18,text,true,,866,450,6,6,https://api.demoblaze.com/view,342,0,0
+1649937497815,641,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-18,text,true,,724,493,6,6,https://api.demoblaze.com/deleteitem,641,0,0
+1649937498457,379,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-18,text,true,,585,487,6,6,https://api.demoblaze.com/viewcart,379,0,0
+1649937498836,336,delete items/view-405,200,OK,Full Transaction Thread Group 2-18,text,true,,822,449,6,6,https://api.demoblaze.com/view,336,0,0
+1649937499173,344,delete items/view-406,200,OK,Full Transaction Thread Group 2-18,text,true,,664,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937499518,338,delete items/view-404,200,OK,Full Transaction Thread Group 2-18,text,true,,828,450,6,6,https://api.demoblaze.com/view,337,0,0
+1649937499856,778,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-18,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,778,0,0
+1649937491086,11458,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-19,,true,,55491,12993,6,6,null,0,13,766
+1649937491086,758,/login-151,200,OK,Full Transaction Thread Group 2-19,text,true,,694,485,6,6,https://api.demoblaze.com/login,758,0,305
+1649937491845,346,/view-202,200,OK,Full Transaction Thread Group 2-19,text,true,,841,452,6,6,https://api.demoblaze.com/view,345,0,0
+1649937492191,369,/addtocart-205,200,OK,Full Transaction Thread Group 2-19,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,369,0,0
+1649937492560,368,/addtocart-207,200,OK,Full Transaction Thread Group 2-19,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,368,0,0
+1649937492929,1102,/index.html-208,200,OK,Full Transaction Thread Group 2-19,text,true,,19926,517,5,5,https://www.demoblaze.com/index.html,1046,0,461
+1649937494032,399,/addtocart-258,200,OK,Full Transaction Thread Group 2-19,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,399,0,0
+1649937494431,371,/addtocart-260,200,OK,Full Transaction Thread Group 2-19,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,371,0,0
+1649937494803,220,/index.html-261,200,OK,Full Transaction Thread Group 2-19,text,true,,19926,518,5,5,https://www.demoblaze.com/index.html,164,0,0
+1649937495023,385,/addtocart-314,200,OK,Full Transaction Thread Group 2-19,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,385,0,0
+1649937495409,422,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-19,text,true,,657,487,6,6,https://api.demoblaze.com/viewcart,422,0,0
+1649937495831,345,cart/view-339,200,OK,Full Transaction Thread Group 2-19,text,true,,904,449,6,6,https://api.demoblaze.com/view,345,0,0
+1649937496177,350,cart/view-340,200,OK,Full Transaction Thread Group 2-19,text,true,,882,450,5,5,https://api.demoblaze.com/view,350,0,0
+1649937496528,354,cart/view-341,200,OK,Full Transaction Thread Group 2-19,text,true,,653,450,5,5,https://api.demoblaze.com/view,354,0,0
+1649937496882,364,cart/view-342,200,OK,Full Transaction Thread Group 2-19,text,true,,654,449,6,6,https://api.demoblaze.com/view,364,0,0
+1649937497247,345,cart/view-343,200,OK,Full Transaction Thread Group 2-19,text,true,,690,450,6,6,https://api.demoblaze.com/view,345,0,0
+1649937497593,365,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-19,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,365,0,0
+1649937497958,498,delete items/view-374,200,OK,Full Transaction Thread Group 2-19,text,true,,870,449,6,6,https://api.demoblaze.com/view,498,0,0
+1649937498457,465,delete items/view-373,200,OK,Full Transaction Thread Group 2-19,text,true,,677,450,5,5,https://api.demoblaze.com/view,465,0,0
+1649937498922,334,delete items/view-372,200,OK,Full Transaction Thread Group 2-19,text,true,,744,450,6,6,https://api.demoblaze.com/view,334,0,0
+1649937499257,325,delete items/view-370,200,OK,Full Transaction Thread Group 2-19,text,true,,473,476,6,6,https://api.demoblaze.com/view,325,0,0
+1649937499582,344,delete items/view-378,200,OK,Full Transaction Thread Group 2-19,text,true,,731,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937499926,677,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-19,text,true,,698,493,6,6,https://api.demoblaze.com/deleteitem,677,0,0
+1649937500604,383,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-19,text,true,,759,487,5,5,https://api.demoblaze.com/viewcart,383,0,0
+1649937500987,347,delete items/view-405,200,OK,Full Transaction Thread Group 2-19,text,true,,799,449,6,6,https://api.demoblaze.com/view,347,0,0
+1649937501335,347,delete items/view-406,200,OK,Full Transaction Thread Group 2-19,text,true,,823,450,6,6,https://api.demoblaze.com/view,347,0,0
+1649937501682,362,delete items/view-404,200,OK,Full Transaction Thread Group 2-19,text,true,,755,450,6,6,https://api.demoblaze.com/view,362,0,0
+1649937502045,513,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-19,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,513,0,0
+1649937493085,11287,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-20,,true,,40353,12993,6,6,null,0,9,810
+1649937493086,941,/login-151,200,OK,Full Transaction Thread Group 2-20,text,true,,689,485,5,5,https://api.demoblaze.com/login,941,0,493
+1649937494027,358,/view-202,200,OK,Full Transaction Thread Group 2-20,text,true,,785,452,5,5,https://api.demoblaze.com/view,357,0,0
+1649937494385,383,/addtocart-205,200,OK,Full Transaction Thread Group 2-20,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,383,0,0
+1649937494769,399,/addtocart-207,200,OK,Full Transaction Thread Group 2-20,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,399,0,0
+1649937495169,615,/index.html-208,200,OK,Full Transaction Thread Group 2-20,text,true,,19926,517,6,6,https://www.demoblaze.com/index.html,556,0,317
+1649937495784,359,/addtocart-258,200,OK,Full Transaction Thread Group 2-20,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,359,0,0
+1649937496144,376,/addtocart-260,200,OK,Full Transaction Thread Group 2-20,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,376,0,0
+1649937496520,337,/index.html-261,200,OK,Full Transaction Thread Group 2-20,text,true,,5036,518,5,5,https://www.demoblaze.com/index.html,335,0,0
+1649937496857,389,/addtocart-314,200,OK,Full Transaction Thread Group 2-20,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,389,0,0
+1649937497246,358,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-20,text,true,,688,487,6,6,https://api.demoblaze.com/viewcart,358,0,0
+1649937497605,347,cart/view-339,200,OK,Full Transaction Thread Group 2-20,text,true,,695,449,6,6,https://api.demoblaze.com/view,347,0,0
+1649937497952,504,cart/view-340,200,OK,Full Transaction Thread Group 2-20,text,true,,813,450,6,6,https://api.demoblaze.com/view,504,0,0
+1649937498457,341,cart/view-341,200,OK,Full Transaction Thread Group 2-20,text,true,,814,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937498798,356,cart/view-342,200,OK,Full Transaction Thread Group 2-20,text,true,,904,449,6,6,https://api.demoblaze.com/view,356,0,0
+1649937499155,353,cart/view-343,200,OK,Full Transaction Thread Group 2-20,text,true,,732,450,6,6,https://api.demoblaze.com/view,353,0,0
+1649937499508,381,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-20,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,381,0,0
+1649937499889,714,delete items/view-374,200,OK,Full Transaction Thread Group 2-20,text,true,,689,449,6,6,https://api.demoblaze.com/view,714,0,0
+1649937500604,346,delete items/view-373,200,OK,Full Transaction Thread Group 2-20,text,true,,644,450,5,5,https://api.demoblaze.com/view,346,0,0
+1649937500950,344,delete items/view-372,200,OK,Full Transaction Thread Group 2-20,text,true,,936,450,6,6,https://api.demoblaze.com/view,344,0,0
+1649937501294,331,delete items/view-370,200,OK,Full Transaction Thread Group 2-20,text,true,,473,476,6,6,https://api.demoblaze.com/view,331,0,0
+1649937501626,346,delete items/view-378,200,OK,Full Transaction Thread Group 2-20,text,true,,797,450,6,6,https://api.demoblaze.com/view,346,0,0
+1649937501972,376,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-20,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,375,0,0
+1649937502348,407,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-20,text,true,,682,487,5,5,https://api.demoblaze.com/viewcart,407,0,0
+1649937502755,347,delete items/view-405,200,OK,Full Transaction Thread Group 2-20,text,true,,744,449,6,6,https://api.demoblaze.com/view,347,0,0
+1649937503102,429,delete items/view-406,200,OK,Full Transaction Thread Group 2-20,text,true,,844,450,6,6,https://api.demoblaze.com/view,429,0,0
+1649937503531,351,delete items/view-404,200,OK,Full Transaction Thread Group 2-20,text,true,,787,450,6,6,https://api.demoblaze.com/view,351,0,0
+1649937503883,499,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-20,text,true,,340,466,6,6,https://api.demoblaze.com/deletecart,499,0,0
+1649937497085,11464,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-22,,true,,40822,12993,5,5,null,0,12,514
+1649937497085,686,/login-151,200,OK,Full Transaction Thread Group 2-22,text,true,,669,485,6,6,https://api.demoblaze.com/login,686,0,257
+1649937497771,346,/view-202,200,OK,Full Transaction Thread Group 2-22,text,true,,774,452,6,6,https://api.demoblaze.com/view,346,0,0
+1649937498117,366,/addtocart-205,200,OK,Full Transaction Thread Group 2-22,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,366,0,0
+1649937498483,448,/addtocart-207,200,OK,Full Transaction Thread Group 2-22,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,448,0,0
+1649937498933,671,/index.html-208,200,OK,Full Transaction Thread Group 2-22,text,true,,5157,517,6,6,https://www.demoblaze.com/index.html,670,0,257
+1649937499604,375,/addtocart-258,200,OK,Full Transaction Thread Group 2-22,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,375,0,0
+1649937499979,639,/addtocart-260,200,OK,Full Transaction Thread Group 2-22,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,639,0,0
+1649937500619,261,/index.html-261,200,OK,Full Transaction Thread Group 2-22,text,true,,19926,518,5,5,https://www.demoblaze.com/index.html,169,0,0
+1649937500880,376,/addtocart-314,200,OK,Full Transaction Thread Group 2-22,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,376,0,0
+1649937501256,376,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-22,text,true,,865,487,6,6,https://api.demoblaze.com/viewcart,376,0,0
+1649937501632,342,cart/view-339,200,OK,Full Transaction Thread Group 2-22,text,true,,779,449,6,6,https://api.demoblaze.com/view,342,0,0
+1649937501975,340,cart/view-340,200,OK,Full Transaction Thread Group 2-22,text,true,,935,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937502316,332,cart/view-341,200,OK,Full Transaction Thread Group 2-22,text,true,,801,450,5,5,https://api.demoblaze.com/view,332,0,0
+1649937502648,343,cart/view-342,200,OK,Full Transaction Thread Group 2-22,text,true,,680,449,5,5,https://api.demoblaze.com/view,343,0,0
+1649937502991,499,cart/view-343,200,OK,Full Transaction Thread Group 2-22,text,true,,703,450,6,6,https://api.demoblaze.com/view,499,0,0
+1649937503490,383,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-22,text,true,,340,493,6,6,https://api.demoblaze.com/deleteitem,383,0,0
+1649937503873,349,delete items/view-374,200,OK,Full Transaction Thread Group 2-22,text,true,,865,449,6,6,https://api.demoblaze.com/view,349,0,0
+1649937504222,357,delete items/view-373,200,OK,Full Transaction Thread Group 2-22,text,true,,812,450,5,5,https://api.demoblaze.com/view,357,0,0
+1649937504579,342,delete items/view-372,200,OK,Full Transaction Thread Group 2-22,text,true,,841,450,5,5,https://api.demoblaze.com/view,342,0,0
+1649937504922,676,delete items/view-370,200,OK,Full Transaction Thread Group 2-22,text,true,,473,476,5,5,https://api.demoblaze.com/view,676,0,0
+1649937505598,342,delete items/view-378,200,OK,Full Transaction Thread Group 2-22,text,true,,871,450,5,5,https://api.demoblaze.com/view,342,0,0
+1649937505941,542,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-22,text,true,,340,493,5,5,https://api.demoblaze.com/deleteitem,542,0,0
+1649937506484,412,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-22,text,true,,649,487,5,5,https://api.demoblaze.com/viewcart,412,0,0
+1649937506897,340,delete items/view-405,200,OK,Full Transaction Thread Group 2-22,text,true,,768,449,5,5,https://api.demoblaze.com/view,340,0,0
+1649937507237,339,delete items/view-406,200,OK,Full Transaction Thread Group 2-22,text,true,,737,450,5,5,https://api.demoblaze.com/view,339,0,0
+1649937507577,363,delete items/view-404,200,OK,Full Transaction Thread Group 2-22,text,true,,842,450,5,5,https://api.demoblaze.com/view,363,0,0
+1649937507942,619,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-22,text,true,,340,466,5,5,https://api.demoblaze.com/deletecart,619,0,0
+1649937499091,11189,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-23,,true,,40875,12993,4,4,null,0,10,520
+1649937499091,701,/login-151,200,OK,Full Transaction Thread Group 2-23,text,true,,609,485,6,6,https://api.demoblaze.com/login,701,0,265
+1649937499792,345,/view-202,200,OK,Full Transaction Thread Group 2-23,text,true,,797,452,6,6,https://api.demoblaze.com/view,345,0,0
+1649937500137,764,/addtocart-205,200,OK,Full Transaction Thread Group 2-23,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,764,0,0
+1649937500902,382,/addtocart-207,200,OK,Full Transaction Thread Group 2-23,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,382,0,0
+1649937501285,467,/index.html-208,200,OK,Full Transaction Thread Group 2-23,text,true,,5053,517,6,6,https://www.demoblaze.com/index.html,465,0,255
+1649937501752,364,/addtocart-258,200,OK,Full Transaction Thread Group 2-23,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,364,0,0
+1649937502117,369,/addtocart-260,200,OK,Full Transaction Thread Group 2-23,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,369,0,0
+1649937502486,270,/index.html-261,200,OK,Full Transaction Thread Group 2-23,text,true,,19926,518,5,5,https://www.demoblaze.com/index.html,185,0,0
+1649937502756,380,/addtocart-314,200,OK,Full Transaction Thread Group 2-23,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,380,0,0
+1649937503137,451,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-23,text,true,,637,487,6,6,https://api.demoblaze.com/viewcart,451,0,0
+1649937503588,346,cart/view-339,200,OK,Full Transaction Thread Group 2-23,text,true,,815,449,6,6,https://api.demoblaze.com/view,346,0,0
+1649937503935,340,cart/view-340,200,OK,Full Transaction Thread Group 2-23,text,true,,777,450,6,6,https://api.demoblaze.com/view,340,0,0
+1649937504276,352,cart/view-341,200,OK,Full Transaction Thread Group 2-23,text,true,,816,450,5,5,https://api.demoblaze.com/view,352,0,0
+1649937504628,690,cart/view-342,200,OK,Full Transaction Thread Group 2-23,text,true,,862,449,5,5,https://api.demoblaze.com/view,690,0,0
+1649937505318,344,cart/view-343,200,OK,Full Transaction Thread Group 2-23,text,true,,860,450,5,5,https://api.demoblaze.com/view,344,0,0
+1649937505662,386,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-23,text,true,,340,493,5,5,https://api.demoblaze.com/deleteitem,386,0,0
+1649937506049,399,delete items/view-374,200,OK,Full Transaction Thread Group 2-23,text,true,,729,449,5,5,https://api.demoblaze.com/view,398,0,0
+1649937506448,439,delete items/view-373,200,OK,Full Transaction Thread Group 2-23,text,true,,890,450,5,5,https://api.demoblaze.com/view,439,0,0
+1649937506888,351,delete items/view-372,200,OK,Full Transaction Thread Group 2-23,text,true,,936,450,5,5,https://api.demoblaze.com/view,351,0,0
+1649937507239,338,delete items/view-370,200,OK,Full Transaction Thread Group 2-23,text,true,,473,476,5,5,https://api.demoblaze.com/view,338,0,0
+1649937507577,358,delete items/view-378,200,OK,Full Transaction Thread Group 2-23,text,true,,818,450,5,5,https://api.demoblaze.com/view,357,0,0
+1649937507935,390,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-23,text,true,,547,493,5,5,https://api.demoblaze.com/deleteitem,390,0,0
+1649937508325,381,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-23,text,true,,337,487,4,4,https://api.demoblaze.com/viewcart,381,0,0
+1649937508706,474,delete items/view-405,200,OK,Full Transaction Thread Group 2-23,text,true,,823,449,4,4,https://api.demoblaze.com/view,474,0,0
+1649937509181,365,delete items/view-406,200,OK,Full Transaction Thread Group 2-23,text,true,,887,450,4,4,https://api.demoblaze.com/view,364,0,0
+1649937509546,379,delete items/view-404,200,OK,Full Transaction Thread Group 2-23,text,true,,948,450,4,4,https://api.demoblaze.com/view,379,0,0
+1649937509926,364,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-23,text,true,,340,466,4,4,https://api.demoblaze.com/deletecart,364,0,0
+1649937501091,10431,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-24,,true,,26409,12993,3,3,null,0,10,607
+1649937501092,699,/login-151,200,OK,Full Transaction Thread Group 2-24,text,true,,690,485,6,6,https://api.demoblaze.com/login,699,0,255
+1649937501791,346,/view-202,200,OK,Full Transaction Thread Group 2-24,text,true,,855,452,6,6,https://api.demoblaze.com/view,346,0,0
+1649937502138,379,/addtocart-205,200,OK,Full Transaction Thread Group 2-24,text,true,,331,544,6,6,https://api.demoblaze.com/addtocart,379,0,0
+1649937502517,391,/addtocart-207,200,OK,Full Transaction Thread Group 2-24,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,391,0,0
+1649937502909,571,/index.html-208,200,OK,Full Transaction Thread Group 2-24,text,true,,5222,517,6,6,https://www.demoblaze.com/index.html,570,0,352
+1649937503480,382,/addtocart-258,200,OK,Full Transaction Thread Group 2-24,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,382,0,0
+1649937503862,382,/addtocart-260,200,OK,Full Transaction Thread Group 2-24,text,true,,331,545,6,6,https://api.demoblaze.com/addtocart,382,0,0
+1649937504245,145,/index.html-261,200,OK,Full Transaction Thread Group 2-24,text,true,,5141,518,5,5,https://www.demoblaze.com/index.html,143,0,0
+1649937504390,373,/addtocart-314,200,OK,Full Transaction Thread Group 2-24,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,373,0,0
+1649937504763,591,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-24,text,true,,813,487,5,5,https://api.demoblaze.com/viewcart,591,0,0
+1649937505354,344,cart/view-339,200,OK,Full Transaction Thread Group 2-24,text,true,,826,449,5,5,https://api.demoblaze.com/view,344,0,0
+1649937505698,345,cart/view-340,200,OK,Full Transaction Thread Group 2-24,text,true,,870,450,5,5,https://api.demoblaze.com/view,345,0,0
+1649937506043,404,cart/view-341,200,OK,Full Transaction Thread Group 2-24,text,true,,687,450,5,5,https://api.demoblaze.com/view,404,0,0
+1649937506448,436,cart/view-342,200,OK,Full Transaction Thread Group 2-24,text,true,,852,449,5,5,https://api.demoblaze.com/view,436,0,0
+1649937506884,352,cart/view-343,200,OK,Full Transaction Thread Group 2-24,text,true,,879,450,5,5,https://api.demoblaze.com/view,351,0,0
+1649937507236,356,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-24,text,true,,630,493,5,5,https://api.demoblaze.com/deleteitem,356,0,0
+1649937507592,344,delete items/view-374,200,OK,Full Transaction Thread Group 2-24,text,true,,700,449,5,5,https://api.demoblaze.com/view,343,0,0
+1649937507936,359,delete items/view-373,200,OK,Full Transaction Thread Group 2-24,text,true,,649,450,5,5,https://api.demoblaze.com/view,359,0,0
+1649937508296,355,delete items/view-372,200,OK,Full Transaction Thread Group 2-24,text,true,,957,450,4,4,https://api.demoblaze.com/view,355,0,0
+1649937508651,337,delete items/view-370,200,OK,Full Transaction Thread Group 2-24,text,true,,473,476,4,4,https://api.demoblaze.com/view,337,0,0
+1649937508988,366,delete items/view-378,200,OK,Full Transaction Thread Group 2-24,text,true,,885,450,4,4,https://api.demoblaze.com/view,366,0,0
+1649937509355,357,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-24,text,true,,572,493,4,4,https://api.demoblaze.com/deleteitem,357,0,0
+1649937509713,397,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-24,text,true,,337,487,4,4,https://api.demoblaze.com/viewcart,397,0,0
+1649937510110,366,delete items/view-405,200,OK,Full Transaction Thread Group 2-24,text,true,,852,449,3,3,https://api.demoblaze.com/view,366,0,0
+1649937510476,355,delete items/view-406,200,OK,Full Transaction Thread Group 2-24,text,true,,775,450,3,3,https://api.demoblaze.com/view,355,0,0
+1649937510831,350,delete items/view-404,200,OK,Full Transaction Thread Group 2-24,text,true,,749,450,3,3,https://api.demoblaze.com/view,350,0,0
+1649937511182,349,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-24,text,true,,340,466,3,3,https://api.demoblaze.com/deletecart,349,0,0
+1649937503086,10646,Transaction Controller,200,"Number of samples in transaction : 27, number of failing samples : 0",Full Transaction Thread Group 2-25,,true,,55951,12993,2,2,null,0,11,621
+1649937503087,769,/login-151,200,OK,Full Transaction Thread Group 2-25,text,true,,647,485,6,6,https://api.demoblaze.com/login,769,0,338
+1649937503856,344,/view-202,200,OK,Full Transaction Thread Group 2-25,text,true,,886,452,6,6,https://api.demoblaze.com/view,344,0,0
+1649937504201,371,/addtocart-205,200,OK,Full Transaction Thread Group 2-25,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,371,0,0
+1649937504572,372,/addtocart-207,200,OK,Full Transaction Thread Group 2-25,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,372,0,0
+1649937504945,603,/index.html-208,200,OK,Full Transaction Thread Group 2-25,text,true,,19926,517,5,5,https://www.demoblaze.com/index.html,514,0,283
+1649937505547,376,/addtocart-258,200,OK,Full Transaction Thread Group 2-25,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,376,0,0
+1649937505924,366,/addtocart-260,200,OK,Full Transaction Thread Group 2-25,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,366,0,0
+1649937506291,312,/index.html-261,200,OK,Full Transaction Thread Group 2-25,text,true,,19926,518,5,5,https://www.demoblaze.com/index.html,256,0,0
+1649937506604,351,/addtocart-314,200,OK,Full Transaction Thread Group 2-25,text,true,,331,545,5,5,https://api.demoblaze.com/addtocart,351,0,0
+1649937506955,371,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-25,text,true,,666,487,5,5,https://api.demoblaze.com/viewcart,371,0,0
+1649937507326,352,cart/view-339,200,OK,Full Transaction Thread Group 2-25,text,true,,740,449,5,5,https://api.demoblaze.com/view,351,0,0
+1649937507678,359,cart/view-340,200,OK,Full Transaction Thread Group 2-25,text,true,,860,450,5,5,https://api.demoblaze.com/view,359,0,0
+1649937508038,408,cart/view-341,200,OK,Full Transaction Thread Group 2-25,text,true,,873,450,5,5,https://api.demoblaze.com/view,408,0,0
+1649937508446,351,cart/view-342,200,OK,Full Transaction Thread Group 2-25,text,true,,682,449,4,4,https://api.demoblaze.com/view,351,0,0
+1649937508797,352,cart/view-343,200,OK,Full Transaction Thread Group 2-25,text,true,,831,450,4,4,https://api.demoblaze.com/view,352,0,0
+1649937509149,352,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-25,text,true,,579,493,4,4,https://api.demoblaze.com/deleteitem,352,0,0
+1649937509501,354,delete items/view-374,200,OK,Full Transaction Thread Group 2-25,text,true,,846,449,4,4,https://api.demoblaze.com/view,354,0,0
+1649937509856,351,delete items/view-373,200,OK,Full Transaction Thread Group 2-25,text,true,,756,450,4,4,https://api.demoblaze.com/view,351,0,0
+1649937510208,351,delete items/view-372,200,OK,Full Transaction Thread Group 2-25,text,true,,986,450,3,3,https://api.demoblaze.com/view,350,0,0
+1649937510559,335,delete items/view-370,200,OK,Full Transaction Thread Group 2-25,text,true,,473,476,3,3,https://api.demoblaze.com/view,335,0,0
+1649937510894,348,delete items/view-378,200,OK,Full Transaction Thread Group 2-25,text,true,,845,450,3,3,https://api.demoblaze.com/view,348,0,0
+1649937511243,343,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-25,text,true,,703,493,2,2,https://api.demoblaze.com/deleteitem,343,0,0
+1649937511586,372,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-25,text,true,,337,487,2,2,https://api.demoblaze.com/viewcart,372,0,0
+1649937511958,744,delete items/view-405,200,OK,Full Transaction Thread Group 2-25,text,true,,745,449,2,2,https://api.demoblaze.com/view,744,0,0
+1649937512702,341,delete items/view-406,200,OK,Full Transaction Thread Group 2-25,text,true,,684,450,2,2,https://api.demoblaze.com/view,341,0,0
+1649937513044,343,delete items/view-404,200,OK,Full Transaction Thread Group 2-25,text,true,,965,450,2,2,https://api.demoblaze.com/view,342,0,0
+1649937513387,355,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-25,text,true,,340,466,2,2,https://api.demoblaze.com/deletecart,355,0,0
+1649937495085,32501,Transaction Controller,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Number of samples in transaction : 27, number of failing samples : 1",Full Transaction Thread Group 2-21,,false,,38747,12476,1,1,null,0,11,21563
+1649937495086,695,/login-151,200,OK,Full Transaction Thread Group 2-21,text,true,,488,485,6,6,https://api.demoblaze.com/login,694,0,263
+1649937495781,345,/view-202,200,OK,Full Transaction Thread Group 2-21,text,true,,743,452,6,6,https://api.demoblaze.com/view,345,0,0
+1649937496127,370,/addtocart-205,200,OK,Full Transaction Thread Group 2-21,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,370,0,0
+1649937496497,370,/addtocart-207,200,OK,Full Transaction Thread Group 2-21,text,true,,331,544,5,5,https://api.demoblaze.com/addtocart,370,0,0
+1649937496868,21032,/index.html-208,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.demoblaze.com:443 [www.demoblaze.com/216.58.200.147] failed: Connection timed out: connect,Full Transaction Thread Group 2-21,text,false,,2873,0,1,1,https://www.demoblaze.com/index.html,0,0,21032
+1649937517901,440,/addtocart-258,200,OK,Full Transaction Thread Group 2-21,text,true,,331,545,1,1,https://api.demoblaze.com/addtocart,440,0,0
+1649937518341,421,/addtocart-260,200,OK,Full Transaction Thread Group 2-21,text,true,,331,545,1,1,https://api.demoblaze.com/addtocart,421,0,0
+1649937518762,747,/index.html-261,200,OK,Full Transaction Thread Group 2-21,text,true,,19926,518,1,1,https://www.demoblaze.com/index.html,692,0,268
+1649937519510,749,/addtocart-314,200,OK,Full Transaction Thread Group 2-21,text,true,,331,545,1,1,https://api.demoblaze.com/addtocart,749,0,0
+1649937520259,403,cart/viewcart-332,200,OK,Full Transaction Thread Group 2-21,text,true,,778,487,1,1,https://api.demoblaze.com/viewcart,403,0,0
+1649937520662,356,cart/view-339,200,OK,Full Transaction Thread Group 2-21,text,true,,785,449,1,1,https://api.demoblaze.com/view,356,0,0
+1649937521019,344,cart/view-340,200,OK,Full Transaction Thread Group 2-21,text,true,,945,450,1,1,https://api.demoblaze.com/view,344,0,0
+1649937521363,391,cart/view-341,200,OK,Full Transaction Thread Group 2-21,text,true,,806,450,1,1,https://api.demoblaze.com/view,391,0,0
+1649937521754,349,cart/view-342,200,OK,Full Transaction Thread Group 2-21,text,true,,837,449,1,1,https://api.demoblaze.com/view,348,0,0
+1649937522103,362,cart/view-343,200,OK,Full Transaction Thread Group 2-21,text,true,,837,450,1,1,https://api.demoblaze.com/view,362,0,0
+1649937522465,350,delete items/deleteitem-348,200,OK,Full Transaction Thread Group 2-21,text,true,,688,493,1,1,https://api.demoblaze.com/deleteitem,350,0,0
+1649937522816,708,delete items/view-374,200,OK,Full Transaction Thread Group 2-21,text,true,,852,449,1,1,https://api.demoblaze.com/view,708,0,0
+1649937523525,397,delete items/view-373,200,OK,Full Transaction Thread Group 2-21,text,true,,803,450,1,1,https://api.demoblaze.com/view,397,0,0
+1649937523922,354,delete items/view-372,200,OK,Full Transaction Thread Group 2-21,text,true,,943,450,1,1,https://api.demoblaze.com/view,353,0,0
+1649937524276,325,delete items/view-370,200,OK,Full Transaction Thread Group 2-21,text,true,,473,476,1,1,https://api.demoblaze.com/view,325,0,0
+1649937524602,344,delete items/view-378,200,OK,Full Transaction Thread Group 2-21,text,true,,800,450,1,1,https://api.demoblaze.com/view,344,0,0
+1649937524947,374,delete items/deleteitem-381,200,OK,Full Transaction Thread Group 2-21,text,true,,340,493,1,1,https://api.demoblaze.com/deleteitem,374,0,0
+1649937525321,747,delete items/viewcart-400,200,OK,Full Transaction Thread Group 2-21,text,true,,598,487,1,1,https://api.demoblaze.com/viewcart,747,0,0
+1649937526068,352,delete items/view-405,200,OK,Full Transaction Thread Group 2-21,text,true,,651,449,1,1,https://api.demoblaze.com/view,351,0,0
+1649937526420,344,delete items/view-406,200,OK,Full Transaction Thread Group 2-21,text,true,,660,450,1,1,https://api.demoblaze.com/view,344,0,0
+1649937526764,346,delete items/view-404,200,OK,Full Transaction Thread Group 2-21,text,true,,926,450,1,1,https://api.demoblaze.com/view,346,0,0
+1649937527111,486,place order/deletecart-411,200,OK,Full Transaction Thread Group 2-21,text,true,,340,466,1,1,https://api.demoblaze.com/deletecart,486,0,0
